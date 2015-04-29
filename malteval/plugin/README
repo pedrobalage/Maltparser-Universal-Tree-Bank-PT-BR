@@ -1,0 +1,14 @@
+To compile the example plugin in the src directory, change directory to 'ant' (cd ant) 
+and type 'ant jar'. You must have ant installed in order to do this, see http://ant.apache.org/. 
+The build.xml file will compile the Java file ArcDirectionAndDeprel.java in  'src' and place a 
+jar-file containing the class file in the directory 'lib/plugin'. MaltEval.jar will then scan 
+this directory looking for jar files. All class files in the jar file will then be dynamically 
+loaded (assuming that all of them implements the interface se.vxu.msi.malteval.grouping.Grouping).
+It is now possible to use these grouping strategies in the same way as the ones that comes with 
+MaltEval by default.
+
+An easy way to get started with creating your own grouping strategies is to make a copy of the Java 
+code example 'src/ArcDirectoryAndDeprel.java' and place the copy in 'src'. Have a look at the 
+javadoc (especially the javadoc for MaltSentence and MaltWord) in order to help you extract the 
+information you need for your grouping strategy. When you are done, simply run 'ant jar' again, 
+and you are ready to use your newly created grouping strategy.

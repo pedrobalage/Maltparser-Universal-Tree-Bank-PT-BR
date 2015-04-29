@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="MaltEvalPlugin" basedir=".">
+	<description>
+        Build file for MaltEvalPlugin
+    </description>
+	<!-- set global properties for this build -->
+	<property name="user.name" location="Jens Nilsson" />
+	<property name="src" location="../src" />
+	<property name="build" location="../bin" />
+	<property name="jardir" location="../../lib/plugin" />
+	<property name="malteval" location="../../lib/MaltEval.jar" />
+
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp />
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="compile" depends="init" description="compiles the source">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac source="1.5" srcdir="${src}" destdir="${build}" classpath="${malteval}" />
+	</target>
+
+	<target name="jar" depends="compile" description="generate the distribution">
+		<!-- Create the distribution directory -->
+		<property name="thisdist" location="${dist}-${DSTAMP}" />
+		<mkdir dir="${jardir}" />
+		<jar jarfile="${jardir}/NewGroupingPlugin.jar" basedir="${build}">
+			<manifest>
+				<attribute name="Manifest-Version" value="1.0" />
+				<attribute name="Built-By" value="${user.name}" />
+			</manifest>
+		</jar>
+		<delete dir="${build}" />
+	</target>
+</project>

@@ -1,0 +1,10 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>LA</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="treebankcounter-5">Frame</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+	<formatting argument="confusion-matrix" format="1"/>
+</evaluation>

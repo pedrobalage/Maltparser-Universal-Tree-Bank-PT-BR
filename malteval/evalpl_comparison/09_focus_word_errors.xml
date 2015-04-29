@@ -1,0 +1,20 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>AnyWrong</value>
+		<value>LabelWrong</value>
+		<value>HeadWrong</value>
+		<value>BothWrong</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="correctcounter-5">Cpostag@0#Wordform@0</value>
+		<value format="correctcounter-5">Cpostag@-1</value>
+		<value format="correctcounter-5">Cpostag@-1#Wordform@-1</value>
+		<value format="correctcounter-5">Cpostag@-2#Cpostag@-1</value>
+		<value format="correctcounter-5">Cpostag@-2#Cpostag@-1#Wordform@-2#Wordform@-1</value>
+		<value format="correctcounter-5">Cpostag@1</value>
+		<value format="correctcounter-5">Cpostag@1#Wordform@1</value>
+		<value format="correctcounter-5">Cpostag@2#Cpostag@1</value>
+		<value format="correctcounter-5">Cpostag@2#Cpostag@1#Wordform@2#Wordform@1</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+</evaluation>

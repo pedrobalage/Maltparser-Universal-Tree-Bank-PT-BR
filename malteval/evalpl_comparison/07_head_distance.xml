@@ -1,0 +1,9 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>GroupedHeadToChildDistanceRight</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="precision|recall|parsercounter|treebankcounter|correctcounter">GroupedRelationLength</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+</evaluation>

@@ -1,0 +1,12 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>AnyWrong</value>
+		<value>LabelWrong</value>
+		<value>HeadWrong</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="correctcounter-5">Sentence</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+	<formatting argument="details" format="1"/>
+</evaluation>

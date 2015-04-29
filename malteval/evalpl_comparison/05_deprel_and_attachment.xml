@@ -1,0 +1,9 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>LAS</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="all">Deprel</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+</evaluation>

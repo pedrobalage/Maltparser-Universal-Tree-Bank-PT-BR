@@ -1,0 +1,9 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>DirectionRight</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="precision|recall|parsercounter|treebankcounter|correctcounter">ArcDirection</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+</evaluation>

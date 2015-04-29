@@ -1,0 +1,11 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>LAS</value>
+		<value>UAS</value>
+		<value>LA</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value>Token</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+</evaluation>

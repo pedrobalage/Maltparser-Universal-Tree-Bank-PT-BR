@@ -1,0 +1,11 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>HeadWrong</value>
+		<value>LabelWrong</value>
+		<value>BothWrong</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="all|counter-">Cpostag</value>
+	</parameter>
+	<formatting argument="pattern" format="0%"/>
+</evaluation>

@@ -1,0 +1,9 @@
+<evaluation>
+	<parameter name="Metric">
+		<value>LabelRight</value>
+	</parameter>
+	<parameter name="GroupBy">
+		<value format="precision|recall|parsercounter|treebankcounter|correctcounter">Deprel</value>
+	</parameter>
+	<formatting argument="pattern" format="0.00%"/>
+</evaluation>
