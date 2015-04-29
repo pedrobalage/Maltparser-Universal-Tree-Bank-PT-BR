@@ -10,5 +10,6 @@ Universal Dependency Treebank
 
 
 ## Autor
-Pedro Paulo Balage (pedrobalage (at) gmail dot com)
+Pedro Paulo Balage
+
 [http://pedrobalage.com](http://pedrobalage.com)
