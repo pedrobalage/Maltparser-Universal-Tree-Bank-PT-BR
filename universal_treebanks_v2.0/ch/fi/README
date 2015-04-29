@@ -1,0 +1,29 @@
+This treebank differs from the original release of the Turku
+Dependency Treebank as follows:
+
+1) The null tokens were removed.
+
+2) Dependency relations were harmonized using the following substitutions.
+
+adpos -> adp
+compar -> advcl
+compar -> advmod
+compar -> amod
+compar -> nmod
+comparator -> mark
+complm -> mark
+csubj-cop -> csubj
+gobj -> poss
+gsubj -> poss
+iccomp -> ccomp
+intj -> dep
+name -> mwe
+nn -> compmod
+nommod -> nmod
+nommod-own -> nmod
+nsubj-cop -> nsubj
+number -> num
+preconj -> cc
+punct -> p
+quantmod -> advmod
+voc -> dep

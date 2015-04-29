@@ -1,0 +1,19 @@
+To generate the English data:
+
+1. Update the WSJDIR variable in generate-data.sh to reflect the path
+   to your copy of the PTB (version 3). This is available at:
+   http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC99T42
+
+2. Run ./generate-data.sh
+
+This script uses version 1.6.8 of the Stanford parser to first convert the
+data and then a normalization script to harmonize it with the other treebanks.
+The normalization script uses Apaches Commons Lang 3.1 utils:
+
+http://commons.apache.org/proper/commons-lang/
+
+to unescape words from the original treebank.
+
+The Stanford Parser is licensed under GNU GPL v2 and the Apache Commons Lang
+tools are license under version 2.0 of the Apache License.
+

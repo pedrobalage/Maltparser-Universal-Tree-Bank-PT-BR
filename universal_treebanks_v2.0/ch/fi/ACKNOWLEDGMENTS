@@ -1,0 +1,66 @@
+This treebank is based on the Turku Dependency Treebank release
+2013-07-18 available from http://bionlp.utu.fi/fintreebank.html
+
+All parts of the Turku Dependency Treebank are distributed under the
+Creative Commons Attribution-ShareAlike 3.0 Unported license.
+
+Acknowledgments:
+
+* Linguistic annotation: Copyright © 2009-2013, Filip Ginter, Katri Haverinen, Samuel Kohonen, Veronika Laippala, Timo
+  Viljanen, Jenna Nyblom, Stina Ojala, Anna Missilä - BioNLP group, Department of IT, University of Turku
+
+* Morphological analysis utilizes the output of the OMorFi analyzer http://omorfi.googlecode.com
+
+* Text (file names from the official release of TDT)
+
+  o Files b101-b116 Copyright © 2010 http://ranneliike.net/blogi.php?nick=Aboa
+  o Files b201-b204 Copyright © 2010 http://moumou.indiedays.com/
+  o Files b301-b309 Copyright © 2010 http://verna.helmiblogit.mtv3.fi/
+  o Files b401-b403 Copyright © 2010 http://femme.helmiblogit.mtv3.fi/
+  o Files b501-b511 Copyright © 2011 http://unknownpixels.com/blogi.php
+  o Files b601-b607 Copyright © 2011 http://riilivingit.blogspot.fi/
+  o Files b701-b723 Copyright © 2011 http://www.mimminkeittio.com/
+  o Files b801-b804 Copyright © 2011 http://blogit.mtv3.fi/sopivassasuhteessa/
+  o Files e1001-e1080 EuroParl, http://www.statmt.org/europarl/
+  o Files f101-f102 © 2011 valkoinenruutu, http://valkoinenruutu.blogspot.com/
+  o Files f201-f213 © 2011 http://kaupunkimerenrannalla.blogspot.com/2011_07_01_archive.html
+  o Files f301-f303 © 2011 http://sanatlopussa.wordpress.com/2010/09/17/palasin-kaipasitko-minua/
+  o Files f401-f404 © 2011 http://neko-kirsikankukka.blogspot.com/2011/01/jatkis.html
+  o Files f501-f503 © 2011 http://sanojaperakkain.blogspot.com/2010/12/malmi-malm.html
+  o Files f601-f607 © 2011 http://keasin.blogspot.com/2011/09/ikava-uutinen.html
+  o Files f701-f703 © 2011 http://putki.livejournal.com/20795.html
+  o Files f801-f803 © 2011 http://urs.fi/pdf/URS_tarinoita_02.pdf
+  o File f901 © 2011 http://merten.kapsi.fi/paratiisi/?p=16
+  o Files fA01-fA04 © 2011 http://ruokamulta.deviantart.com/gallery/7173465#/d4dzjhx
+  o Files fB01-fB04 © 2011 http://lusikkainen.kapina.net/2005/05/22/eri-uni/
+  o Files fC01-fC05 © 2011 http://isopeikko.vuodatus.net/blog/3043570/lusikka/
+  o Files fD01-fD03 © 2011 http://www.katajala.net/jussi/nereidiensaleista/Nereidien_saleista_pohjoisille_rannoille.txt
+  o Files fE01-fE06 © 2011 http://elegioitasudenkorennoilta.blogspot.com/2011/04/leppakerttu.html
+  o Files fF01-fF04 © 2011 http://ajatusmatkaaja.blogspot.com/2011/10/aamupala-keski-suomessa.html
+  o Files h1001-h1080 FinnTreeBank, http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/
+  o Files j001-j030 JRC-ACQUIS, http://optima.jrc.it/Acquis/index_2.2.html
+  o Files s101-s102 Copyright © 2008 Markus Auvo, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o Files s103-s104 Copyright © 2008 Pekka Salmela, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o File s105 Copyright © 2008 Katarina Stubbe, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o File s106 Copyright © 2008 Juuso Haapanen, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o File s107 Copyright © 2008 Miikka Ryökäs, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o File s108-s109 Copyright © 2008 Antti Levo, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o File s110 Copyright © 2008 Jyrki Pulliainen, File-lehti (http://www.asteriski.fi/toiminta/file_arkisto.php)
+  o File s201 Copyright © 2010 Jani Moilanen, Indeksi-lehti (http://index.utu.fi/?id=arkisto)
+  o File s203 Copyright © 2010 Katriina Kerttula, Indeksi-lehti (http://index.utu.fi/?id=arkisto)
+  o File s202 Copyright © 2010 Niina Niemi, Indeksi-lehti (http://index.utu.fi/?id=arkisto)
+  o File s204 Copyright © 2010 Milla Ikonen, Indeksi-lehti (http://index.utu.fi/?id=arkisto)
+  o File s205 Copyright © 2010 Lauri Miikkulainen, Indeksi-lehti (http://index.utu.fi/?id=arkisto)
+  o File s206 Copyright © 2010 Teemu Alanen, Indeksi-lehti (http://index.utu.fi/?id=arkisto)
+  o File s301 Copyright © 2009 Juha Rajajärvi, Potenssi-lehti (http://www.delta.utu.fi/potenssi/arkisto/)
+  o File s302 Copyright © 2009 Simo Kauhala & Juha Rajajärvi, Potenssi-lehti (http://www.delta.utu.fi/potenssi/arkisto/)
+  o File s303 Copyright © 2009 Kennet Pynninen & Joonas Saario, Potenssi-lehti (http://www.delta.utu.fi/potenssi/
+    arkisto/)
+  o File s304 Copyright © 2009 Hanna Lehtinen, Potenssi-lehti (http://www.delta.utu.fi/potenssi/arkisto/)
+  o File s305 Copyright © 2009 Kennet Pynninen, Potenssi-lehti (http://www.delta.utu.fi/potenssi/arkisto/)
+  o File s306 Copyright © 2009 Jussi Harmanen, Potenssi-lehti (http://www.delta.utu.fi/potenssi/arkisto/)
+  o File s307 Copyright © 2009 Essi Vuorinen & Joonas Saario, Potenssi-lehti (http://www.delta.utu.fi/potenssi/arkisto/)
+  o Files t001-t050 © 2011 Talous Sanomat http://www.taloussanomat.fi/
+  o Files u001-u050 Copyright © 2010 University of Turku, http://www.utuonline.fi/
+  o Files w001-w200 Wikipedia, http://www.wikipedia.fi/
+  o Files wn001-wn100 Wikinews, http://fi.wikinews.org/

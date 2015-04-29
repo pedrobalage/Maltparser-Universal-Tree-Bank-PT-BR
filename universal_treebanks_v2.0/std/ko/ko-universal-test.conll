@@ -1,0 +1,2930 @@
+1	지난달	_	NOUN	NOUN	_	2	compmod	_	_
+2	16일	_	NOUN	NUMNOUN	_	9	nmod	_	_
+3	실시간	_	NOUN	NOUN	_	6	compmod	_	_
+4	인터넷	_	NOUN	NOUN	_	6	compmod	_	_
+5	방송	_	NOUN	NOUN	_	6	compmod	_	_
+6	유스트림을	_	NOUN	NOUN	_	7	dobj	_	_
+7	통해	_	VERB	PREDCONJ	_	9	advcl	_	_
+8	컴백을	_	NOUN	NOUN	_	9	dobj	_	_
+9	알린	_	VERB	PREDREL	_	10	rcmod	_	_
+10	원더걸스는	_	NOUN	PNOUN	_	15	nsubj	_	_
+11	신곡	_	NOUN	NOUN	_	14	compmod	_	_
+12	'투	_	NOUN	PNOUN	_	14	compmod	_	_
+13	디퍼런트	_	NOUN	PNOUN	_	14	compmod	_	_
+14	티어스'를	_	NOUN	PNOUN	_	15	dobj	_	_
+15	공개했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	청림마을로	_	ADV	ADV	_	2	advmod	_	_
+2	내려오는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	하산길은	_	NOUN	NOUN	_	6	nsubj	_	_
+4	갑자기	_	ADV	ADV	_	6	advmod	_	_
+5	급경사를	_	NOUN	NOUN	_	6	dobj	_	_
+6	이룬다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	양용은(38)과	_	NOUN	NOMCONJ	_	2	conj	_	_
+2	최경주(40)는	_	NOUN	PNOUN	_	7	nsubj	_	_
+3	나란히	_	ADV	ADV	_	7	advmod	_	_
+4	공동	_	NOUN	NOUN	_	6	compmod	_	_
+5	33위(1언더파	_	NOUN	NUMNOUN	_	6	compmod	_	_
+6	143타)에	_	ADV	ADV	_	7	advmod	_	_
+7	머물러	_	VERB	PREDCX	_	8	compmod	_	_
+8	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	최나연과	_	NOUN	NOMCONJ	_	2	conj	_	_
+2	김송희	_	NOUN	PNOUN	_	5	nsubj	_	_
+3	모두	_	ADV	ADV	_	5	advmod	_	_
+4	우승을	_	NOUN	NOUN	_	5	dobj	_	_
+5	못하고	_	VERB	PREDCX	_	6	compmod	_	_
+6	있을	_	VERB	PREDREL	_	10	advcl	_	_
+7	때	_	NOUN	NOUN	_	6	mark	_	_
+8	심리	_	NOUN	NOUN	_	9	compmod	_	_
+9	치료를	_	NOUN	NOUN	_	10	dobj	_	_
+10	소개해	_	VERB	PREDCX	_	11	compmod	_	_
+11	준	_	VERB	PREDREL	_	12	dep	_	_
+12	것도	_	NOUN	NOUN	_	13	nsubj	_	_
+13	최나연이었다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	상장예정일은	_	NOUN	NOUN	_	3	nsubj	_	_
+2	오는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	29일이며	_	VERB	PREDCONJ	_	5	conj	_	_
+4	주관사는	_	NOUN	NOUN	_	5	nsubj	_	_
+5	동양종합금융증권이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	일본	_	NOUN	PNOUN	_	2	compmod	_	_
+2	의회가	_	NOUN	NOUN	_	10	nsubj	_	_
+3	대지진	_	NOUN	NOUN	_	4	compmod	_	_
+4	복구를	_	NOUN	NOUN	_	5	dobj	_	_
+5	위해	_	VERB	PREDCONJ	_	10	advcl	_	_
+6	2조엔(26조원)	_	NOUN	NUMNOUN	_	7	compmod	_	_
+7	규모의	_	NOUN	NOUN	_	9	poss	_	_
+8	추가	_	NOUN	NOUN	_	9	compmod	_	_
+9	예산안을	_	NOUN	NOUN	_	10	dobj	_	_
+10	승인했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이명박	_	NOUN	PNOUN	_	2	compmod	_	_
+2	대통령은	_	NOUN	NOUN	_	8	nsubj	_	_
+3	오늘	_	NOUN	NOUN	_	8	nmod	_	_
+4	과학인재	_	NOUN	NOUN	_	6	compmod	_	_
+5	240여	_	NOUN	NUMNOUN	_	6	compmod	_	_
+6	명을	_	NOUN	NOUN	_	8	dobj	_	_
+7	청와대로	_	ADV	ADV	_	8	advmod	_	_
+8	초청해	_	VERB	PREDCONJ	_	18	advcl	_	_
+9	대통령과학장학증서와	_	NOUN	NOMCONJ	_	13	conj	_	_
+10	대통령	_	NOUN	NOUN	_	13	compmod	_	_
+11	포스트닥	_	NOUN	NOUN	_	13	compmod	_	_
+12	펠로우	_	NOUN	NOUN	_	13	compmod	_	_
+13	지정서를	_	NOUN	NOUN	_	14	dobj	_	_
+14	수여하고	_	VERB	PREDCONJ	_	18	conj	_	_
+15	오찬을	_	NOUN	NOUN	_	17	dobj	_	_
+16	함께	_	ADV	ADV	_	17	advmod	_	_
+17	하며	_	VERB	PREDCONJ	_	18	advcl	_	_
+18	격려했습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	민간인	_	NOUN	NOUN	_	3	compmod	_	_
+2	불법사찰	_	NOUN	NOUN	_	3	compmod	_	_
+3	의혹을	_	NOUN	NOUN	_	4	dobj	_	_
+4	조사중인	_	VERB	PREDREL	_	6	rcmod	_	_
+5	서울중앙지검	_	NOUN	PNOUN	_	6	compmod	_	_
+6	특별수사팀은	_	NOUN	NOUN	_	20	nsubj	_	_
+7	9일	_	NOUN	NUMNOUN	_	8	compmod	_	_
+8	오전	_	NOUN	NOUN	_	20	nmod	_	_
+9	서울	_	NOUN	PNOUN	_	15	compmod	_	_
+10	종로구	_	NOUN	PNOUN	_	15	compmod	_	_
+11	창성동	_	NOUN	PNOUN	_	15	compmod	_	_
+12	정부종합청사	_	NOUN	PNOUN	_	15	compmod	_	_
+13	별관	_	NOUN	NOUN	_	15	compmod	_	_
+14	4층	_	NOUN	NUMNOUN	_	15	compmod	_	_
+15	지원관실에서	_	ADV	ADV	_	20	advmod	_	_
+16	각종	_	NOUN	NOUN	_	18	compmod	_	_
+17	문서와	_	NOUN	NOMCONJ	_	18	conj	_	_
+18	전산자료	_	NOUN	NOUN	_	20	dobj	_	_
+19	등을	_	NOUN	NOUN	_	18	dep	_	_
+20	압수했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	거대한	_	ADJ	ADJ	_	3	amod	_	_
+2	기름	_	NOUN	NOUN	_	3	compmod	_	_
+3	기둥은	_	NOUN	NOUN	_	8	nsubj	_	_
+4	루이지애나와	_	NOUN	NOMCONJ	_	5	conj	_	_
+5	미시시피주	_	NOUN	PNOUN	_	6	compmod	_	_
+6	해안을	_	NOUN	NOUN	_	8	dobj	_	_
+7	시커멓게	_	ADV	ADV	_	8	advmod	_	_
+8	뒤덮었습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	육군은	_	NOUN	NOUN	_	7	nsubj	_	_
+2	군	_	NOUN	NOUN	_	4	compmod	_	_
+3	구조	_	NOUN	NOUN	_	4	compmod	_	_
+4	개혁에	_	ADV	ADV	_	5	advmod	_	_
+5	대해	_	VERB	PREDCONJ	_	7	advcl	_	_
+6	중립적인	_	ADJ	ADJ	_	7	amod	_	_
+7	입장이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	13일부터	_	ADV	ADV	_	7	advmod	_	_
+2	16일까지는	_	ADV	ADV	_	7	advmod	_	_
+3	3박	_	NOUN	NUMNOUN	_	4	compmod	_	_
+4	4일의	_	NOUN	NUMNOUN	_	5	poss	_	_
+5	일정으로	_	ADV	ADV	_	7	advmod	_	_
+6	홈스테이가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	진행된다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	기아차도	_	NOUN	PNOUN	_	6	nsubj	_	_
+2	올해	_	NOUN	NOUN	_	3	compmod	_	_
+3	상반기	_	NOUN	NOUN	_	6	nmod	_	_
+4	신형	_	NOUN	NOUN	_	5	compmod	_	_
+5	프라이드를	_	NOUN	PNOUN	_	6	dobj	_	_
+6	출시하면서	_	VERB	PREDCONJ	_	10	advcl	_	_
+7	소형차	_	NOUN	NOUN	_	9	compmod	_	_
+8	시장	_	NOUN	NOUN	_	9	compmod	_	_
+9	공략에	_	ADV	ADV	_	10	advmod	_	_
+10	나선다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	박하선은	_	NOUN	PNOUN	_	5	nsubj	_	_
+2	'하이킥3'에서	_	ADV	ADV	_	5	advmod	_	_
+3	허당	_	NOUN	NOUN	_	4	compmod	_	_
+4	선생님으로	_	ADV	ADV	_	5	advmod	_	_
+5	등장해	_	VERB	PREDCONJ	_	8	advcl	_	_
+6	인기를	_	NOUN	NOUN	_	7	dobj	_	_
+7	얻고	_	VERB	PREDCX	_	8	compmod	_	_
+8	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	다인스케치(www.dynesketch.co.kr)에서는	_	NOUN	PNOUN	_	7	nsubj	_	_
+2	경력	_	NOUN	NOUN	_	3	compmod	_	_
+3	2년	_	NOUN	NUMNOUN	_	4	compmod	_	_
+4	이상의	_	NOUN	NOUN	_	6	poss	_	_
+5	편집	_	NOUN	NOUN	_	6	compmod	_	_
+6	디자이너를	_	NOUN	NOUN	_	7	dobj	_	_
+7	모집한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	10	advmod	_	_
+2	이운재는	_	NOUN	PNOUN	_	10	nsubj	_	_
+3	에콰도르와	_	NOUN	NOMCONJ	_	4	conj	_	_
+4	일본전에서	_	ADV	ADV	_	8	advmod	_	_
+5	정성룡이	_	NOUN	PNOUN	_	8	nsubj	_	_
+6	연속	_	ADV	ADV	_	8	advmod	_	_
+7	풀타임을	_	NOUN	NOUN	_	8	dobj	_	_
+8	소화하자	_	VERB	PREDCONJ	_	10	advcl	_	_
+9	위기감을	_	NOUN	NOUN	_	10	dobj	_	_
+10	느꼈다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	새	_	ADJ	ADJ	_	2	amod	_	_
+2	총재가	_	NOUN	NOUN	_	3	nsubj	_	_
+3	떠안게	_	VERB	PREDCX	_	4	compmod	_	_
+4	될	_	VERB	PREDREL	_	5	dep	_	_
+5	과제는	_	NOUN	NOUN	_	7	nsubj	_	_
+6	무수히	_	ADV	ADV	_	7	advmod	_	_
+7	많다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	대한팔경의	_	NOUN	PNOUN	_	2	poss	_	_
+2	하나로	_	ADV	ADV	_	3	advmod	_	_
+3	꼽히는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	해운대는	_	NOUN	PNOUN	_	8	nsubj	_	_
+5	도시와	_	ADV	ADV	_	6	advmod	_	_
+6	연접한	_	VERB	PREDREL	_	8	rcmod	_	_
+7	보기드문	_	ADJ	ADJ	_	8	amod	_	_
+8	해수욕장이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	홍	_	NOUN	NOUN	_	2	compmod	_	_
+2	의원과	_	ADV	ADV	_	4	advmod	_	_
+3	당권을	_	NOUN	NOUN	_	4	dobj	_	_
+4	다툴	_	VERB	PREDREL	_	6	rcmod	_	_
+5	유력	_	NOUN	NOUN	_	6	compmod	_	_
+6	후보는	_	NOUN	NOUN	_	10	nsubj	_	_
+7	안상수(경기	_	NOUN	PNOUN	_	10	compmod	_	_
+8	의왕시	_	NOUN	PNOUN	_	10	compmod	_	_
+9	과천시)	_	NOUN	PNOUN	_	10	compmod	_	_
+10	의원이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	이날	_	NOUN	NOUN	_	4	nmod	_	_
+2	배수정의	_	NOUN	PNOUN	_	3	poss	_	_
+3	컨디션은	_	NOUN	NOUN	_	4	nsubj	_	_
+4	최악이었다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	환경	_	NOUN	NOUN	_	2	compmod	_	_
+2	문제는	_	NOUN	NOUN	_	8	nsubj	_	_
+3	지금	_	NOUN	NOUN	_	8	nmod	_	_
+4	4대강	_	NOUN	NUMNOUN	_	5	compmod	_	_
+5	사업의	_	NOUN	NOUN	_	7	poss	_	_
+6	최대	_	NOUN	NOUN	_	7	compmod	_	_
+7	쟁점이	_	NOUN	NOUN	_	8	nsubj	_	_
+8	돼	_	VERB	PREDCX	_	9	compmod	_	_
+9	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	각	_	DET	DET	_	2	det	_	_
+2	정당의	_	NOUN	NOUN	_	3	poss	_	_
+3	기여도를	_	NOUN	NOUN	_	4	dobj	_	_
+4	따지면	_	VERB	PREDCONJ	_	9	advcl	_	_
+5	물론	_	ADV	ADV	_	9	advmod	_	_
+6	민주당의	_	NOUN	PNOUN	_	7	poss	_	_
+7	공이	_	NOUN	NOUN	_	9	nsubj	_	_
+8	가장	_	ADV	ADV	_	9	advmod	_	_
+9	크다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	어머니에게	_	NOUN	NOUN	_	2	iobj	_	_
+2	구박받는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	차회장의	_	NOUN	PNOUN	_	4	poss	_	_
+4	표정은	_	NOUN	NOUN	_	7	nsubj	_	_
+5	때때로	_	ADV	ADV	_	7	advmod	_	_
+6	시트콤을	_	NOUN	NOUN	_	7	dobj	_	_
+7	연상시킨다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	야구용품류	_	NOUN	NOUN	_	2	compmod	_	_
+2	세트는	_	NOUN	NOUN	_	12	nsubjpass	_	_
+3	어린이	_	NOUN	NOUN	_	4	compmod	_	_
+4	글러브와	_	NOUN	NOMCONJ	_	10	conj	_	_
+5	헬멧	_	NOUN	NOUN	_	10	conj	_	_
+6	,	_	.	.	_	5	p	_	_
+7	알루미늄	_	NOUN	NOUN	_	8	compmod	_	_
+8	배트	_	NOUN	NOUN	_	10	conj	_	_
+9	,	_	.	.	_	8	p	_	_
+10	안전구	_	NOUN	NOUN	_	12	advmod	_	_
+11	등으로	_	ADV	ADV	_	10	dep	_	_
+12	구성됐으며	_	VERB	PREDCONJ	_	16	conj	_	_
+13	,	_	.	.	_	12	p	_	_
+14	할인	_	NOUN	NOUN	_	15	compmod	_	_
+15	판매가는	_	NOUN	NOUN	_	16	nsubj	_	_
+16	5만5천원이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	삼성물산은	_	NOUN	PNOUN	_	6	nsubj	_	_
+2	케냐에	_	ADV	ADV	_	6	advmod	_	_
+3	지사	_	NOUN	NOUN	_	4	compmod	_	_
+4	신설을	_	NOUN	NOUN	_	6	dobj	_	_
+5	준비	_	NOUN	NOUN	_	6	compmod	_	_
+6	중이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	구속영장	_	NOUN	NOUN	_	2	compmod	_	_
+2	실질심사는	_	NOUN	NOUN	_	10	nsubj	_	_
+3	판사가	_	NOUN	NOUN	_	9	nsubj	_	_
+4	피의자를	_	NOUN	NOUN	_	6	dobj	_	_
+5	직접	_	ADV	ADV	_	6	advmod	_	_
+6	심문하고	_	VERB	PREDCONJ	_	9	conj	_	_
+7	구속	_	NOUN	NOUN	_	8	compmod	_	_
+8	여부를	_	NOUN	NOUN	_	9	dobj	_	_
+9	결정하는	_	VERB	PREDREL	_	10	rcmod	_	_
+10	제도다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	검찰이	_	NOUN	NOUN	_	11	nsubj	_	_
+2	민주노동당에	_	ADV	ADV	_	4	advmod	_	_
+3	후원금을	_	NOUN	NOUN	_	4	dobj	_	_
+4	낸	_	VERB	PREDREL	_	6	rcmod	_	_
+5	공무원과	_	NOUN	NOMCONJ	_	6	conj	_	_
+6	교사들을	_	NOUN	NOUN	_	11	dobj	_	_
+7	정치자금법	_	NOUN	NOUN	_	9	compmod	_	_
+8	위반	_	NOUN	NOUN	_	9	compmod	_	_
+9	혐의로	_	ADV	ADV	_	11	advmod	_	_
+10	추가	_	NOUN	NOUN	_	11	compmod	_	_
+11	조사하는	_	VERB	PREDREL	_	12	dep	_	_
+12	것과	_	ADV	ADV	_	13	advmod	_	_
+13	관련해	_	VERB	PREDCONJ	_	16	advcl	_	_
+14	시민사회단체들이	_	NOUN	NOUN	_	15	nsubj	_	_
+15	반발하고	_	VERB	PREDCX	_	16	compmod	_	_
+16	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	조인스랜드부동산에	_	ADV	ADV	_	2	advmod	_	_
+2	따르면	_	VERB	PREDCONJ	_	7	advcl	_	_
+3	지난주	_	NOUN	NOUN	_	7	nmod	_	_
+4	대전	_	NOUN	NOUN	_	5	compmod	_	_
+5	집값은	_	NOUN	NOUN	_	7	nsubj	_	_
+6	0.09%	_	NOUN	NUMNOUN	_	7	advmod	_	_
+7	올랐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	예탁결제원은	_	NOUN	PNOUN	_	8	nsubj	_	_
+2	10억여원을	_	NOUN	NUMNOUN	_	3	dobj	_	_
+3	들여	_	VERB	PREDCONJ	_	8	advcl	_	_
+4	지난해	_	NOUN	NOUN	_	5	compmod	_	_
+5	8월	_	NOUN	NUMNOUN	_	8	nmod	_	_
+6	이	_	DET	DET	_	7	det	_	_
+7	시스템을	_	NOUN	NOUN	_	8	dobj	_	_
+8	개발했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	손님	_	NOUN	NOUN	_	2	compmod	_	_
+2	상에	_	ADV	ADV	_	3	advmod	_	_
+3	오르는	_	VERB	PREDREL	_	5	rcmod	_	_
+4	칼국수	_	NOUN	NOUN	_	5	compmod	_	_
+5	면은	_	NOUN	NOUN	_	9	nsubj	_	_
+6	3~4일	_	NOUN	NUMNOUN	_	9	advmod	_	_
+7	꼭	_	ADV	ADV	_	9	advmod	_	_
+8	숙성을	_	NOUN	NOUN	_	9	dobj	_	_
+9	거친	_	VERB	PREDREL	_	10	dep	_	_
+10	것이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	가장	_	ADV	ADV	_	2	advmod	_	_
+2	먼저	_	ADV	ADV	_	3	advmod	_	_
+3	할	_	VERB	PREDREL	_	4	dep	_	_
+4	일은	_	NOUN	NOUN	_	9	nsubj	_	_
+5	자녀	_	NOUN	NOUN	_	6	compmod	_	_
+6	이름으로	_	ADV	ADV	_	8	advmod	_	_
+7	계좌를	_	NOUN	NOUN	_	8	dobj	_	_
+8	개설하는	_	VERB	PREDREL	_	9	dep	_	_
+9	것이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	저자는	_	NOUN	NOUN	_	20	nsubj	_	_
+2	이	_	DET	DET	_	3	det	_	_
+3	책에서	_	ADV	ADV	_	20	advmod	_	_
+4	자신의	_	PRON	PRON	_	11	poss	_	_
+5	실제	_	NOUN	NOUN	_	11	compmod	_	_
+6	매매와	_	NOUN	NOMCONJ	_	11	conj	_	_
+7	소프트웨어	_	NOUN	NOUN	_	8	compmod	_	_
+8	개발	_	NOUN	NOUN	_	11	conj	_	_
+9	,	_	.	.	_	8	p	_	_
+10	강의	_	NOUN	NOUN	_	11	compmod	_	_
+11	경험	_	NOUN	NOUN	_	18	appos	_	_
+12	등	_	NOUN	NOUN	_	11	dep	_	_
+13	그간	_	ADV	ADV	_	16	advmod	_	_
+14	연구	_	NOUN	NOUN	_	16	conj	_	_
+15	,	_	.	.	_	14	p	_	_
+16	발전시켜온	_	VERB	PREDREL	_	18	rcmod	_	_
+17	트레이딩	_	NOUN	NOUN	_	18	compmod	_	_
+18	기법을	_	NOUN	NOUN	_	20	dobj	_	_
+19	낱낱이	_	ADV	ADV	_	20	advmod	_	_
+20	공개했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	미	_	NOUN	PNOUN	_	3	compmod	_	_
+2	시사주간	_	NOUN	NOUN	_	3	compmod	_	_
+3	타임은	_	NOUN	PNOUN	_	14	nsubj	_	_
+4	세계	_	NOUN	NOUN	_	5	compmod	_	_
+5	최악의	_	NOUN	NOUN	_	6	poss	_	_
+6	지진국	_	NOUN	NOUN	_	7	compmod	_	_
+7	칠레의	_	NOUN	PNOUN	_	8	poss	_	_
+8	사례는	_	NOUN	NOUN	_	13	nsubj	_	_
+9	'지진재해	_	NOUN	NOUN	_	10	compmod	_	_
+10	극복의	_	NOUN	NOUN	_	12	poss	_	_
+11	새	_	ADJ	ADJ	_	12	amod	_	_
+12	전기'를	_	NOUN	NOUN	_	13	dobj	_	_
+13	열었다고	_	VERB	PREDCOMP	_	14	ccomp	_	_
+14	평가했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이곳에서	_	ADV	ADV	_	10	advmod	_	_
+2	문화재	_	NOUN	NOUN	_	3	compmod	_	_
+3	발굴은	_	NOUN	NOUN	_	9	nsubj	_	_
+4	형촌마을	_	NOUN	PNOUN	_	6	compmod	_	_
+5	서쪽	_	NOUN	NOUN	_	6	compmod	_	_
+6	구릉과	_	NOUN	NOMCONJ	_	8	conj	_	_
+7	남쪽	_	NOUN	NOUN	_	8	compmod	_	_
+8	저지대에서	_	ADV	ADV	_	9	advmod	_	_
+9	이뤄지고	_	VERB	PREDCX	_	10	compmod	_	_
+10	있었다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	그	_	DET	DET	_	2	det	_	_
+2	앞에	_	ADV	ADV	_	3	advmod	_	_
+3	주차된	_	VERB	PREDREL	_	4	rcmod	_	_
+4	승합차는	_	NOUN	NOUN	_	8	nsubj	_	_
+5	트렁크	_	NOUN	NOUN	_	6	compmod	_	_
+6	문이	_	NOUN	NOUN	_	8	nsubj	_	_
+7	활짝	_	ADV	ADV	_	8	advmod	_	_
+8	열려있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	황	_	NOUN	PNOUN	_	2	compmod	_	_
+2	감독과	_	ADV	ADV	_	4	advmod	_	_
+3	우의가	_	NOUN	NOUN	_	4	nsubj	_	_
+4	돈독한	_	VERB	PREDREL	_	7	rcmod	_	_
+5	가수	_	NOUN	NOUN	_	7	compmod	_	_
+6	변진섭	_	NOUN	PNOUN	_	7	compmod	_	_
+7	씨가	_	NOUN	NOUN	_	9	nsubj	_	_
+8	축가를	_	NOUN	NOUN	_	9	dobj	_	_
+9	부르고	_	VERB	PREDCONJ	_	12	conj	_	_
+10	커플의	_	NOUN	NOUN	_	11	poss	_	_
+11	앞날을	_	NOUN	NOUN	_	12	dobj	_	_
+12	축복한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	그는	_	PRON	PRON	_	3	nsubj	_	_
+2	맨유에	_	ADV	ADV	_	3	advmod	_	_
+3	입단한	_	VERB	PREDREL	_	7	advcl	_	_
+4	이후	_	NOUN	NOUN	_	3	mark	_	_
+5	놀라울	_	VERB	PREDREL	_	6	dep	_	_
+6	정도로	_	ADV	ADV	_	7	advmod	_	_
+7	발전하고	_	VERB	PREDCX	_	8	compmod	_	_
+8	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	기아차	_	NOUN	PNOUN	_	2	compmod	_	_
+2	노조도	_	NOUN	NOUN	_	8	nsubj	_	_
+3	쌍용차	_	NOUN	PNOUN	_	4	compmod	_	_
+4	노조의	_	NOUN	NOUN	_	5	poss	_	_
+5	준법정신과	_	NOUN	NOMCONJ	_	7	conj	_	_
+6	노사상생의	_	NOUN	NOUN	_	7	poss	_	_
+7	원칙을	_	NOUN	NOUN	_	8	dobj	_	_
+8	눈여겨봐야	_	VERB	PREDCX	_	9	compmod	_	_
+9	한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	범인은	_	NOUN	NOUN	_	4	nsubj	_	_
+2	이정범의	_	NOUN	PNOUN	_	3	poss	_	_
+3	아들인	_	VERB	PREDREL	_	4	rcmod	_	_
+4	안수현이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	예쁜	_	ADJ	ADJ	_	2	amod	_	_
+2	코를	_	NOUN	NOUN	_	3	dobj	_	_
+3	만들고	_	VERB	PREDCX	_	4	compmod	_	_
+4	싶지만	_	VERB	PREDCONJ	_	8	advcl	_	_
+5	성형수술에	_	ADV	ADV	_	6	advmod	_	_
+6	대한	_	VERB	PREDREL	_	7	dep	_	_
+7	부담으로	_	ADV	ADV	_	8	advmod	_	_
+8	주저하는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	이들이	_	NOUN	NOUN	_	13	nsubj	_	_
+10	이러한	_	ADJ	ADJ	_	11	amod	_	_
+11	필러를	_	NOUN	NOUN	_	13	dobj	_	_
+12	많이	_	ADV	ADV	_	13	advmod	_	_
+13	찾는다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이주호	_	NOUN	PNOUN	_	2	compmod	_	_
+2	교육과학기술부장관이	_	NOUN	NOUN	_	14	nsubj	_	_
+3	6일	_	NOUN	NUMNOUN	_	4	compmod	_	_
+4	오전	_	NOUN	NOUN	_	14	nmod	_	_
+5	서울	_	NOUN	PNOUN	_	7	compmod	_	_
+6	세종로	_	NOUN	PNOUN	_	7	compmod	_	_
+7	정부중앙청사에서	_	ADV	ADV	_	14	advmod	_	_
+8	고리	_	NOUN	PNOUN	_	11	compmod	_	_
+9	1호기	_	NOUN	NUMNOUN	_	11	compmod	_	_
+10	안전점검	_	NOUN	NOUN	_	11	compmod	_	_
+11	결과에	_	ADV	ADV	_	12	advmod	_	_
+12	대해	_	VERB	PREDCONJ	_	14	advcl	_	_
+13	브리핑을	_	NOUN	NOUN	_	14	dobj	_	_
+14	하고	_	VERB	PREDCX	_	15	compmod	_	_
+15	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이명박정권은	_	NOUN	PNOUN	_	17	nsubj	_	_
+2	대한민국	_	NOUN	PNOUN	_	3	compmod	_	_
+3	인권의	_	NOUN	NOUN	_	4	poss	_	_
+4	시계를	_	NOUN	NOUN	_	6	dobj	_	_
+5	거꾸로	_	ADV	ADV	_	6	advmod	_	_
+6	돌리고	_	VERB	PREDCONJ	_	17	conj	_	_
+7	,	_	.	.	_	6	p	_	_
+8	민중의	_	NOUN	NOUN	_	9	poss	_	_
+9	삶을	_	NOUN	NOUN	_	11	dobj	_	_
+10	벼랑으로	_	ADV	ADV	_	11	advmod	_	_
+11	몰아넣고	_	VERB	PREDCONJ	_	17	conj	_	_
+12	,	_	.	.	_	11	p	_	_
+13	장애인운동의	_	NOUN	NOUN	_	15	poss	_	_
+14	소중한	_	ADJ	ADJ	_	15	amod	_	_
+15	성과를	_	NOUN	NOUN	_	17	dobj	_	_
+16	거꾸로	_	ADV	ADV	_	17	advmod	_	_
+17	돌리고	_	VERB	PREDCX	_	18	compmod	_	_
+18	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	11일	_	NOUN	NUMNOUN	_	2	compmod	_	_
+2	오후	_	NOUN	NOUN	_	3	nmod	_	_
+3	방송된	_	VERB	PREDREL	_	7	rcmod	_	_
+4	MBC	_	NOUN	PNOUN	_	7	compmod	_	_
+5	예능	_	NOUN	NOUN	_	7	compmod	_	_
+6	프로그램	_	NOUN	NOUN	_	7	compmod	_	_
+7	'무한도전'에서는	_	ADV	ADV	_	12	advmod	_	_
+8	박명수의	_	NOUN	PNOUN	_	10	poss	_	_
+9	게릴라	_	NOUN	NOUN	_	10	compmod	_	_
+10	콘서트가	_	NOUN	NOUN	_	12	nsubj	_	_
+11	전파를	_	NOUN	NOUN	_	12	dobj	_	_
+12	탔다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	나하는	_	NOUN	PNOUN	_	10	nsubj	_	_
+2	오키나와	_	NOUN	PNOUN	_	3	compmod	_	_
+3	현의	_	NOUN	NOUN	_	5	poss	_	_
+4	현청	_	NOUN	NOUN	_	5	compmod	_	_
+5	소재지로	_	ADV	ADV	_	10	advmod	_	_
+6	많은	_	ADJ	ADJ	_	7	amod	_	_
+7	문화유산이	_	NOUN	NOUN	_	9	nsubj	_	_
+8	남아	_	VERB	PREDCX	_	9	compmod	_	_
+9	있는	_	VERB	PREDREL	_	10	rcmod	_	_
+10	도시이며	_	VERB	PREDCONJ	_	20	conj	_	_
+11	,	_	.	.	_	10	p	_	_
+12	이시가키와	_	NOUN	NOMCONJ	_	13	conj	_	_
+13	미야코는	_	NOUN	PNOUN	_	20	nsubj	_	_
+14	자연환경이	_	NOUN	NOUN	_	15	nsubj	_	_
+15	아름답고	_	VERB	PREDCONJ	_	19	conj	_	_
+16	해양	_	NOUN	NOUN	_	17	compmod	_	_
+17	스포츠를	_	NOUN	NOUN	_	18	dobj	_	_
+18	즐기기	_	NOUN	NOUN	_	19	csubj	_	_
+19	좋은	_	VERB	PREDREL	_	20	rcmod	_	_
+20	섬이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	두	_	NUM	NUM	_	2	num	_	_
+2	회사의	_	NOUN	NOUN	_	4	poss	_	_
+3	가격	_	NOUN	NOUN	_	4	compmod	_	_
+4	경쟁은	_	NOUN	NOUN	_	8	nsubj	_	_
+5	다른	_	ADJ	ADJ	_	6	amod	_	_
+6	수입차들에도	_	ADV	ADV	_	8	advmod	_	_
+7	영향을	_	NOUN	NOUN	_	8	dobj	_	_
+8	주고	_	VERB	PREDCX	_	9	compmod	_	_
+9	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	정부는	_	NOUN	NOUN	_	9	nsubj	_	_
+2	민간차원에서	_	ADV	ADV	_	7	advmod	_	_
+3	김정일	_	NOUN	PNOUN	_	4	compmod	_	_
+4	위원장에	_	ADV	ADV	_	5	advmod	_	_
+5	대한	_	VERB	PREDREL	_	6	dep	_	_
+6	조전을	_	NOUN	NOUN	_	7	dobj	_	_
+7	보내는	_	VERB	PREDREL	_	8	dep	_	_
+8	것을	_	NOUN	NOUN	_	9	dobj	_	_
+9	허용했습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	폴리실리콘은	_	NOUN	PNOUN	_	9	nsubj	_	_
+2	대표적인	_	ADJ	ADJ	_	4	amod	_	_
+3	기술집약형	_	NOUN	NOUN	_	4	compmod	_	_
+4	장치산업으로	_	ADV	ADV	_	9	advmod	_	_
+5	막대한	_	ADJ	ADJ	_	7	amod	_	_
+6	투자	_	NOUN	NOUN	_	7	compmod	_	_
+7	비용이	_	NOUN	NOUN	_	8	nsubj	_	_
+8	드는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	분야다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	아프가니스탄에	_	ADV	ADV	_	2	advmod	_	_
+2	주둔중인	_	VERB	PREDREL	_	3	rcmod	_	_
+3	한국군이	_	NOUN	NOUN	_	7	nsubj	_	_
+4	또	_	ADV	ADV	_	7	advmod	_	_
+5	로켓포탄	_	NOUN	NOUN	_	6	compmod	_	_
+6	공격을	_	NOUN	NOUN	_	7	dobj	_	_
+7	받았다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	초대원장으로	_	ADV	ADV	_	6	advmod	_	_
+2	박재갑	_	NOUN	PNOUN	_	5	compmod	_	_
+3	서울의대	_	NOUN	PNOUN	_	5	compmod	_	_
+4	외과	_	NOUN	NOUN	_	5	compmod	_	_
+5	교수가	_	NOUN	NOUN	_	6	nsubj	_	_
+6	취임한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	13	advmod	_	_
+2	우리나라에서	_	ADV	ADV	_	13	advmod	_	_
+3	위암	_	NOUN	NOUN	_	7	conj	_	_
+4	,	_	.	.	_	3	p	_	_
+5	폐암	_	NOUN	NOUN	_	7	conj	_	_
+6	,	_	.	.	_	5	p	_	_
+7	간암은	_	NOUN	NOUN	_	8	nsubj	_	_
+8	줄어드는	_	VERB	PREDREL	_	13	advcl	_	_
+9	반면	_	NOUN	NOUN	_	8	mark	_	_
+10	대장암은	_	NOUN	NOUN	_	13	nsubj	_	_
+11	해마다	_	ADV	ADV	_	13	advmod	_	_
+12	6.9%씩	_	NOUN	NUMNOUN	_	13	advmod	_	_
+13	늘어났습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	그것은	_	PRON	PRON	_	7	nsubj	_	_
+2	공동	_	NOUN	NOUN	_	3	compmod	_	_
+3	구매를	_	NOUN	NOUN	_	4	dobj	_	_
+4	통해	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	만들어지는	_	VERB	PREDREL	_	7	rcmod	_	_
+6	저렴한	_	ADJ	ADJ	_	7	amod	_	_
+7	가격이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	이	_	DET	DET	_	2	det	_	_
+2	학교	_	NOUN	NOUN	_	6	nsubj	_	_
+3	역시	_	ADV	ADV	_	6	advmod	_	_
+4	지원자	_	NOUN	NOUN	_	5	compmod	_	_
+5	증가를	_	NOUN	NOUN	_	6	dobj	_	_
+6	경험했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	입체음향이란	_	NOUN	NOUN	_	10	nsubj	_	_
+2	방향과	_	NOUN	NOMCONJ	_	5	conj	_	_
+3	거리	_	NOUN	NOUN	_	5	conj	_	_
+4	,	_	.	.	_	3	p	_	_
+5	공간감각을	_	NOUN	NOUN	_	6	dobj	_	_
+6	느낄	_	VERB	PREDREL	_	7	dep	_	_
+7	수	_	NOUN	NOUN	_	8	nsubj	_	_
+8	있는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	소리를	_	NOUN	NOUN	_	10	dobj	_	_
+10	말한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	여자농구는	_	NOUN	NOUN	_	8	nsubj	_	_
+2	내년	_	NOUN	NOUN	_	3	compmod	_	_
+3	3월까지	_	ADV	ADV	_	8	advmod	_	_
+4	다섯	_	NUM	NUM	_	5	num	_	_
+5	달	_	NOUN	NOUN	_	6	adpobj	_	_
+6	간의	_	ADP	ADP	_	7	adpmod	_	_
+7	대장정을	_	NOUN	NOUN	_	8	dobj	_	_
+8	계속합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	셀틱이	_	NOUN	PNOUN	_	3	nsubj	_	_
+2	선제골을	_	NOUN	NOUN	_	3	dobj	_	_
+3	터뜨린	_	VERB	PREDREL	_	9	advcl	_	_
+4	이후	_	NOUN	NOUN	_	3	mark	_	_
+5	양	_	DET	DET	_	6	det	_	_
+6	팀은	_	NOUN	NOUN	_	9	nsubj	_	_
+7	치열한	_	ADJ	ADJ	_	8	amod	_	_
+8	접전을	_	NOUN	NOUN	_	9	dobj	_	_
+9	펼쳤다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이날	_	NOUN	NOUN	_	18	nmod	_	_
+2	제작발표회에는	_	ADV	ADV	_	18	advmod	_	_
+3	김만덕	_	NOUN	PNOUN	_	4	compmod	_	_
+4	역의	_	NOUN	NOUN	_	5	poss	_	_
+5	이미연을	_	NOUN	NOUN	_	6	dobj	_	_
+6	비롯해	_	VERB	PREDCONJ	_	18	advcl	_	_
+7	고두심	_	NOUN	PNOUN	_	13	conj	_	_
+8	,	_	.	.	_	7	p	_	_
+9	한재석	_	NOUN	PNOUN	_	13	conj	_	_
+10	,	_	.	.	_	9	p	_	_
+11	박솔미	_	NOUN	PNOUN	_	13	conj	_	_
+12	,	_	.	.	_	11	p	_	_
+13	하석진	_	NOUN	PNOUN	_	16	appos	_	_
+14	등	_	NOUN	NOUN	_	13	dep	_	_
+15	주요	_	NOUN	NOUN	_	16	compmod	_	_
+16	출연진과	_	NOUN	NOMCONJ	_	17	conj	_	_
+17	제작진이	_	NOUN	NOUN	_	18	nsubj	_	_
+18	참석했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	사법개혁과	_	NOUN	NOMCONJ	_	2	conj	_	_
+2	검찰개혁을	_	NOUN	NOUN	_	3	dobj	_	_
+3	부르짖던	_	VERB	PREDREL	_	4	rcmod	_	_
+4	국회야말로	_	NOUN	NOUN	_	6	nsubj	_	_
+5	개혁의	_	NOUN	NOUN	_	6	poss	_	_
+6	대상이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	지난	_	VERB	PREDREL	_	2	rcmod	_	_
+2	10일	_	NOUN	NUMNOUN	_	11	nmod	_	_
+3	북한의	_	NOUN	PNOUN	_	6	poss	_	_
+4	연평도	_	NOUN	PNOUN	_	6	compmod	_	_
+5	인근	_	NOUN	NOUN	_	6	compmod	_	_
+6	해상포격과	_	NOUN	NOMCONJ	_	9	conj	_	_
+7	우리	_	PRON	PRON	_	8	poss	_	_
+8	군의	_	NOUN	NOUN	_	9	poss	_	_
+9	대응사격으로	_	ADV	ADV	_	11	advmod	_	_
+10	긴장감이	_	NOUN	NOUN	_	11	nsubj	_	_
+11	고조된	_	VERB	PREDREL	_	18	advcl	_	_
+12	가운데	_	NOUN	NOUN	_	11	mark	_	_
+13	,	_	.	.	_	12	p	_	_
+14	탈북자단체가	_	NOUN	NOUN	_	18	nsubj	_	_
+15	11일	_	NOUN	NUMNOUN	_	18	nmod	_	_
+16	김포에서	_	ADV	ADV	_	18	advmod	_	_
+17	대북전단을	_	NOUN	NOUN	_	18	dobj	_	_
+18	날려보냈다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	아시아통화들도	_	NOUN	NOUN	_	6	nsubj	_	_
+2	대부분	_	ADV	ADV	_	6	advmod	_	_
+3	달러화에	_	ADV	ADV	_	4	advmod	_	_
+4	대해	_	VERB	PREDCONJ	_	6	advcl	_	_
+5	강세를	_	NOUN	NOUN	_	6	dobj	_	_
+6	보이면서	_	VERB	PREDCONJ	_	10	advcl	_	_
+7	원화	_	NOUN	NOUN	_	8	compmod	_	_
+8	강세에	_	ADV	ADV	_	10	advmod	_	_
+9	영향을	_	NOUN	NOUN	_	10	dobj	_	_
+10	미쳤다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	계	_	NOUN	PNOUN	_	2	compmod	_	_
+2	닭내포국집은	_	NOUN	PNOUN	_	7	nsubj	_	_
+3	지난	_	VERB	PREDREL	_	4	rcmod	_	_
+4	2001년에	_	NOUN	NUMNOUN	_	7	advmod	_	_
+5	처음	_	ADV	ADV	_	7	advmod	_	_
+6	문을	_	NOUN	NOUN	_	7	dobj	_	_
+7	열었는데요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	지난해	_	NOUN	NOUN	_	2	compmod	_	_
+2	7월7일	_	NOUN	NUMNOUN	_	3	nmod	_	_
+3	발생한	_	VERB	PREDREL	_	5	rcmod	_	_
+4	디도스	_	NOUN	PNOUN	_	5	compmod	_	_
+5	대란이	_	NOUN	NOUN	_	8	nsubj	_	_
+6	7일로	_	ADV	ADV	_	8	advmod	_	_
+7	1주년을	_	NOUN	NUMNOUN	_	8	dobj	_	_
+8	맞이한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	다나는	_	NOUN	PNOUN	_	11	nsubj	_	_
+2	최근	_	ADV	ADV	_	11	advmod	_	_
+3	자신의	_	PRON	PRON	_	4	poss	_	_
+4	미니홈피를	_	NOUN	NOUN	_	5	dobj	_	_
+5	통해	_	VERB	PREDCONJ	_	11	advcl	_	_
+6	한층	_	ADV	ADV	_	7	advmod	_	_
+7	성숙하진	_	VERB	PREDREL	_	8	rcmod	_	_
+8	모습이	_	NOUN	NOUN	_	9	nsubjpass	_	_
+9	담긴	_	VERB	PREDREL	_	10	rcmod	_	_
+10	사진을	_	NOUN	NOUN	_	11	dobj	_	_
+11	게재했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	문제는	_	NOUN	NOUN	_	20	nsubj	_	_
+2	세계	_	NOUN	NOUN	_	4	compmod	_	_
+3	주요	_	NOUN	NOUN	_	4	compmod	_	_
+4	상품들의	_	NOUN	NOUN	_	6	poss	_	_
+5	생산과	_	NOUN	NOMCONJ	_	6	conj	_	_
+6	유통	_	NOUN	NOUN	_	8	conj	_	_
+7	그리고	_	CONJ	CONJ	_	8	cc	_	_
+8	거래시장이	_	NOUN	NOUN	_	15	nsubjpass	_	_
+9	모두	_	ADV	ADV	_	15	advmod	_	_
+10	굴지의	_	NOUN	NOUN	_	14	poss	_	_
+11	광산업체와	_	NOUN	NOMCONJ	_	14	conj	_	_
+12	유통업체	_	NOUN	NOUN	_	14	conj	_	_
+13	,	_	.	.	_	12	p	_	_
+14	투자회사들에	_	ADV	ADV	_	15	advmod	_	_
+15	장악돼	_	VERB	PREDCONJ	_	18	advcl	_	_
+16	가격	_	NOUN	NOUN	_	17	compmod	_	_
+17	조정도	_	NOUN	NOUN	_	18	nsubj	_	_
+18	가능한	_	VERB	PREDREL	_	19	rcmod	_	_
+19	상황이라는	_	VERB	PREDREL	_	20	dep	_	_
+20	점이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	브라질	_	NOUN	PNOUN	_	2	compmod	_	_
+2	정부는	_	NOUN	NOUN	_	8	nsubj	_	_
+3	월소득	_	NOUN	NOUN	_	6	compmod	_	_
+4	70헤알	_	NOUN	NUMNOUN	_	6	compmod	_	_
+5	(약4만7천원)	_	NOUN	NUMNOUN	_	4	appos	_	_
+6	미만을	_	NOUN	NOUN	_	8	dobj	_	_
+7	극빈곤층으로	_	ADV	ADV	_	8	advmod	_	_
+8	분류하고	_	VERB	PREDCX	_	9	compmod	_	_
+9	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	우리산업의	_	NOUN	NOUN	_	4	poss	_	_
+2	상반기	_	NOUN	NOUN	_	4	compmod	_	_
+3	누적	_	NOUN	NOUN	_	4	compmod	_	_
+4	실적은	_	NOUN	NOUN	_	11	nsubjpass	_	_
+5	매출액과	_	NOUN	NOMCONJ	_	6	conj	_	_
+6	영업이익이	_	NOUN	NOUN	_	11	nsubjpass	_	_
+7	각각	_	ADV	ADV	_	11	advmod	_	_
+8	645억원	_	NOUN	NUMNOUN	_	10	conj	_	_
+9	,	_	.	.	_	8	p	_	_
+10	17억원으로	_	ADV	ADV	_	11	advmod	_	_
+11	추정됐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	결국	_	ADV	ADV	_	12	advmod	_	_
+2	이명박	_	NOUN	PNOUN	_	3	compmod	_	_
+3	정부는	_	NOUN	NOUN	_	11	nsubj	_	_
+4	문화계에서	_	ADV	ADV	_	11	advmod	_	_
+5	'전	_	NOUN	NOUN	_	8	compmod	_	_
+6	정권	_	NOUN	NOUN	_	8	compmod	_	_
+7	인사	_	NOUN	NOUN	_	8	compmod	_	_
+8	물갈이'를	_	NOUN	NOUN	_	9	dobj	_	_
+9	한다는	_	VERB	PREDCOMP	_	11	ccomp	_	_
+10	비난만	_	NOUN	NOUN	_	11	dobj	_	_
+11	사게	_	VERB	PREDCX	_	12	compmod	_	_
+12	됐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	유바리	_	NOUN	PNOUN	_	2	compmod	_	_
+2	시처럼	_	ADV	ADV	_	6	advmod	_	_
+3	재정이	_	NOUN	NOUN	_	6	nsubj	_	_
+4	파탄	_	NOUN	NOUN	_	5	adpobj	_	_
+5	직전에	_	ADP	ADP	_	6	adpmod	_	_
+6	놓인	_	VERB	PREDREL	_	8	rcmod	_	_
+7	일본의	_	NOUN	PNOUN	_	8	poss	_	_
+8	지방자치단체는	_	NOUN	NOUN	_	11	nsubjpass	_	_
+9	40여	_	NOUN	NUMNOUN	_	10	compmod	_	_
+10	곳으로	_	ADV	ADV	_	11	advmod	_	_
+11	추정된다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	드라마	_	NOUN	NOUN	_	3	compmod	_	_
+2	부문	_	NOUN	NOUN	_	3	compmod	_	_
+3	여우주연상은	_	NOUN	NOUN	_	8	nsubj	_	_
+4	'더	_	NOUN	PNOUN	_	5	compmod	_	_
+5	클로저'의	_	NOUN	PNOUN	_	7	poss	_	_
+6	카이라	_	NOUN	PNOUN	_	7	compmod	_	_
+7	세드윅에게	_	ADV	ADV	_	8	advmod	_	_
+8	돌아갔다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	지금도	_	ADV	ADV	_	3	advmod	_	_
+2	노래방에서	_	ADV	ADV	_	3	advmod	_	_
+3	애창되는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	노래의	_	NOUN	NOUN	_	5	poss	_	_
+5	상당수는	_	NOUN	NOUN	_	7	nsubjpass	_	_
+6	당시에	_	ADV	ADV	_	7	advmod	_	_
+7	발표됐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	당사자인	_	ADJ	ADJ	_	2	amod	_	_
+2	서울시는	_	NOUN	PNOUN	_	4	nsubj	_	_
+3	난감한	_	ADJ	ADJ	_	4	amod	_	_
+4	처지다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	다행히	_	ADV	ADV	_	6	advmod	_	_
+2	운전자는	_	NOUN	NOUN	_	5	nsubj	_	_
+3	큰	_	ADJ	ADJ	_	4	amod	_	_
+4	부상을	_	NOUN	NOUN	_	5	dobj	_	_
+5	입지	_	VERB	PREDCX	_	6	compmod	_	_
+6	않았으나	_	VERB	PREDCONJ	_	15	advcl	_	_
+7	차량은	_	NOUN	NOUN	_	15	nsubj	_	_
+8	전면	_	NOUN	NOUN	_	10	compmod	_	_
+9	범퍼	_	NOUN	NOUN	_	10	compmod	_	_
+10	교체	_	NOUN	NOUN	_	14	appos	_	_
+11	등	_	NOUN	NOUN	_	10	dep	_	_
+12	적지	_	VERB	PREDCX	_	13	compmod	_	_
+13	않은	_	VERB	PREDREL	_	14	rcmod	_	_
+14	피해를	_	NOUN	NOUN	_	15	dobj	_	_
+15	입은	_	VERB	PREDREL	_	16	dep	_	_
+16	것으로	_	ADV	ADV	_	17	advmod	_	_
+17	알려졌다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	정상에서	_	ADV	ADV	_	3	advmod	_	_
+2	1시간을	_	NOUN	NUMNOUN	_	3	dobj	_	_
+3	지나	_	VERB	PREDCONJ	_	7	advcl	_	_
+4	능선이	_	NOUN	NOUN	_	7	nsubj	_	_
+5	남쪽	_	NOUN	NOUN	_	6	compmod	_	_
+6	방향으로	_	ADV	ADV	_	7	advmod	_	_
+7	진행하면	_	VERB	PREDCONJ	_	10	advcl	_	_
+8	전나무	_	NOUN	NOUN	_	9	compmod	_	_
+9	숲이	_	NOUN	NOUN	_	10	nsubj	_	_
+10	나온다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	김	_	NOUN	PNOUN	_	2	compmod	_	_
+2	감독이	_	NOUN	NOUN	_	7	nsubj	_	_
+3	이날	_	NOUN	NOUN	_	7	nmod	_	_
+4	취재진과	_	ADV	ADV	_	5	advmod	_	_
+5	인터뷰에서	_	ADV	ADV	_	7	advmod	_	_
+6	유독	_	ADV	ADV	_	7	advmod	_	_
+7	강조했던	_	VERB	PREDREL	_	8	dep	_	_
+8	것은	_	NOUN	NOUN	_	10	nsubj	_	_
+9	'정정당당한	_	ADJ	ADJ	_	10	amod	_	_
+10	야구'다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	21일	_	NOUN	NUMNOUN	_	3	compmod	_	_
+2	국민투표	_	NOUN	NOUN	_	3	compmod	_	_
+3	결과에	_	ADV	ADV	_	4	advmod	_	_
+4	따라	_	VERB	PREDCONJ	_	8	advcl	_	_
+5	논의의	_	NOUN	NOUN	_	6	poss	_	_
+6	향방이	_	NOUN	NOUN	_	8	nsubj	_	_
+7	180도	_	NOUN	NUMNOUN	_	8	advmod	_	_
+8	달라질	_	VERB	PREDREL	_	9	dep	_	_
+9	수	_	NOUN	NOUN	_	10	nsubj	_	_
+10	있다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	이	_	DET	DET	_	2	det	_	_
+2	사고로	_	ADV	ADV	_	19	advmod	_	_
+3	갓길에서	_	ADV	ADV	_	5	advmod	_	_
+4	사진을	_	NOUN	NOUN	_	5	dobj	_	_
+5	찍고	_	VERB	PREDCX	_	6	compmod	_	_
+6	있던	_	VERB	PREDREL	_	13	rcmod	_	_
+7	사진	_	NOUN	NOUN	_	13	compmod	_	_
+8	동호회	_	NOUN	NOUN	_	13	compmod	_	_
+9	회원	_	NOUN	NOUN	_	13	compmod	_	_
+10	54살	_	NOUN	NUMNOUN	_	13	compmod	_	_
+11	이	_	NOUN	PNOUN	_	13	compmod	_	_
+12	모	_	NOUN	NOUN	_	13	compmod	_	_
+13	씨	_	NOUN	NOUN	_	15	appos	_	_
+14	등	_	NOUN	NOUN	_	13	dep	_	_
+15	3명이	_	NOUN	NOUN	_	16	nsubj	_	_
+16	숨지고	_	VERB	PREDCONJ	_	19	conj	_	_
+17	,	_	.	.	_	16	p	_	_
+18	1명이	_	NOUN	NUMNOUN	_	19	nsubj	_	_
+19	다쳤습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	현재	_	ADV	ADV	_	7	advmod	_	_
+2	지구상에는	_	ADV	ADV	_	7	advmod	_	_
+3	109과(科)	_	NOUN	NUMNOUN	_	5	compmod	_	_
+4	3377속	_	NOUN	NUMNOUN	_	5	compmod	_	_
+5	4만1000종의	_	NOUN	NUMNOUN	_	6	poss	_	_
+6	거미가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	있는	_	VERB	PREDREL	_	8	dep	_	_
+8	것으로	_	ADV	ADV	_	9	advmod	_	_
+9	알려져	_	VERB	PREDCX	_	10	compmod	_	_
+10	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	런드브래드	_	NOUN	PNOUN	_	2	compmod	_	_
+2	대변인은	_	NOUN	NOUN	_	13	nsubj	_	_
+3	최근	_	ADV	ADV	_	12	advmod	_	_
+4	스웨덴	_	NOUN	PNOUN	_	5	compmod	_	_
+5	수사대가	_	NOUN	NOUN	_	12	nsubj	_	_
+6	그가	_	PRON	PRON	_	9	nsubj	_	_
+7	터키	_	NOUN	PNOUN	_	8	compmod	_	_
+8	항공사에서	_	ADV	ADV	_	9	advmod	_	_
+9	일하고	_	VERB	PREDCX	_	10	compmod	_	_
+10	있다는	_	VERB	PREDCOMP	_	12	ccomp	_	_
+11	제보를	_	NOUN	NOUN	_	12	dobj	_	_
+12	받았다고	_	VERB	PREDCOMP	_	13	ccomp	_	_
+13	말했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	할리우드	_	NOUN	PNOUN	_	4	compmod	_	_
+2	스타	_	NOUN	NOUN	_	4	compmod	_	_
+3	케이트	_	NOUN	PNOUN	_	4	compmod	_	_
+4	보스워스가	_	NOUN	PNOUN	_	12	nsubj	_	_
+5	영화	_	NOUN	NOUN	_	8	compmod	_	_
+6	'워리어스	_	NOUN	PNOUN	_	8	compmod	_	_
+7	웨이'	_	NOUN	PNOUN	_	8	compmod	_	_
+8	홍보를	_	NOUN	NOUN	_	9	dobj	_	_
+9	위해	_	VERB	PREDCONJ	_	12	advcl	_	_
+10	장동건과	_	ADV	ADV	_	12	advmod	_	_
+11	함께	_	ADV	ADV	_	12	advmod	_	_
+12	내한한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	'하녀'와	_	ADV	ADV	_	4	advmod	_	_
+2	같은	_	ADJ	ADJ	_	3	amod	_	_
+3	날	_	ADV	ADV	_	4	advmod	_	_
+4	개봉한	_	VERB	PREDREL	_	6	rcmod	_	_
+5	이	_	DET	DET	_	6	det	_	_
+6	영화의	_	NOUN	NOUN	_	8	poss	_	_
+7	누적	_	NOUN	NOUN	_	8	compmod	_	_
+8	관객은	_	NOUN	NOUN	_	9	nsubj	_	_
+9	54만5천366명이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	지난	_	VERB	PREDREL	_	2	rcmod	_	_
+2	2004년	_	NOUN	NUMNOUN	_	6	nmod	_	_
+3	MBC	_	NOUN	PNOUN	_	5	compmod	_	_
+4	김진민	_	NOUN	PNOUN	_	5	compmod	_	_
+5	PD와	_	ADV	ADV	_	6	advmod	_	_
+6	결혼한	_	VERB	PREDREL	_	7	rcmod	_	_
+7	김여진은	_	NOUN	PNOUN	_	13	nsubj	_	_
+8	결혼	_	NOUN	NOUN	_	9	compmod	_	_
+9	7년만에	_	ADV	ADV	_	13	advmod	_	_
+10	드디어	_	ADV	ADV	_	13	advmod	_	_
+11	임신의	_	NOUN	NOUN	_	12	poss	_	_
+12	기쁨을	_	NOUN	NOUN	_	13	dobj	_	_
+13	맛봤다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	자세한	_	ADJ	ADJ	_	2	amod	_	_
+2	사항은	_	NOUN	NOUN	_	4	nsubj	_	_
+3	홈페이지를	_	NOUN	NOUN	_	4	dobj	_	_
+4	참조하면	_	VERB	PREDCX	_	5	compmod	_	_
+5	된다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	일련의	_	NOUN	NOUN	_	2	poss	_	_
+2	사태의	_	NOUN	NOUN	_	4	poss	_	_
+3	최대	_	NOUN	NOUN	_	4	compmod	_	_
+4	피해자는	_	NOUN	NOUN	_	6	nsubj	_	_
+5	SC제일은행	_	NOUN	PNOUN	_	6	compmod	_	_
+6	스스로다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	이달곤	_	NOUN	PNOUN	_	3	compmod	_	_
+2	행정안전부	_	NOUN	PNOUN	_	3	compmod	_	_
+3	장관이	_	NOUN	NOUN	_	10	nsubj	_	_
+4	6.2	_	NUM	NUM	_	5	num	_	_
+5	지방선거에서	_	ADV	ADV	_	8	advmod	_	_
+6	경남도지사	_	NOUN	PNOUN	_	7	compmod	_	_
+7	후보로	_	ADV	ADV	_	8	advmod	_	_
+8	출마하기	_	NOUN	NOUN	_	9	dobj	_	_
+9	위해	_	VERB	PREDCONJ	_	10	advcl	_	_
+10	사퇴한다고	_	VERB	PREDCOMP	_	13	ccomp	_	_
+11	행안부가	_	NOUN	PNOUN	_	13	nsubj	_	_
+12	4일	_	NOUN	NUMNOUN	_	13	nmod	_	_
+13	밝혔다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	70여	_	NOUN	NUMNOUN	_	2	compmod	_	_
+2	톤에	_	ADV	ADV	_	3	advmod	_	_
+3	달하는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	흙이	_	NOUN	NOUN	_	6	nsubj	_	_
+5	빗물에	_	ADV	ADV	_	6	advmod	_	_
+6	무너져	_	VERB	PREDCX	_	7	compmod	_	_
+7	내렸습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이번	_	NOUN	NOUN	_	2	compmod	_	_
+2	비로	_	ADV	ADV	_	10	advmod	_	_
+3	도내에는	_	ADV	ADV	_	10	advmod	_	_
+4	모두	_	ADV	ADV	_	7	advmod	_	_
+5	11명이	_	NOUN	NUMNOUN	_	7	nsubj	_	_
+6	사망하거나	_	VERB	PREDCONJ	_	7	conj	_	_
+7	실종되는	_	VERB	PREDREL	_	9	rcmod	_	_
+8	등	_	NOUN	NOUN	_	7	dep	_	_
+9	인명피해도	_	NOUN	NOUN	_	10	nsubj	_	_
+10	이어졌습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	개그맨	_	NOUN	NOUN	_	2	compmod	_	_
+2	정준하가	_	NOUN	PNOUN	_	4	nsubj	_	_
+3	진행을	_	NOUN	NOUN	_	4	dobj	_	_
+4	맡은	_	VERB	PREDREL	_	12	rcmod	_	_
+5	MBC	_	NOUN	PNOUN	_	10	compmod	_	_
+6	ESPN	_	NOUN	PNOUN	_	10	compmod	_	_
+7	야심	_	NOUN	NOUN	_	10	compmod	_	_
+8	프로젝트	_	NOUN	NOUN	_	10	compmod	_	_
+9	'날려라	_	NOUN	PNOUN	_	10	compmod	_	_
+10	홈런왕'의	_	NOUN	PNOUN	_	12	poss	_	_
+11	공개	_	NOUN	NOUN	_	12	compmod	_	_
+12	오디션이	_	NOUN	NOUN	_	22	nsubjpass	_	_
+13	2월	_	NOUN	NUMNOUN	_	17	compmod	_	_
+14	7일	_	NOUN	NUMNOUN	_	17	compmod	_	_
+15	오전	_	NOUN	NOUN	_	17	compmod	_	_
+16	8시	_	NOUN	NUMNOUN	_	17	compmod	_	_
+17	30분	_	NOUN	NUMNOUN	_	22	nmod	_	_
+18	서울	_	NOUN	PNOUN	_	21	compmod	_	_
+19	은평구	_	NOUN	PNOUN	_	21	compmod	_	_
+20	박새길	_	NOUN	PNOUN	_	21	compmod	_	_
+21	은평구민체육센터에서	_	ADV	ADV	_	22	advmod	_	_
+22	열렸다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	베트남	_	NOUN	PNOUN	_	2	compmod	_	_
+2	현대미술은	_	NOUN	NOUN	_	7	nsubjpass	_	_
+3	'베트남전'의	_	NOUN	PNOUN	_	5	poss	_	_
+4	기억과	_	NOUN	NOMCONJ	_	5	conj	_	_
+5	상흔이	_	NOUN	NOUN	_	7	nsubjpass	_	_
+6	고스란히	_	ADV	ADV	_	7	advmod	_	_
+7	반영되어	_	VERB	PREDCX	_	8	compmod	_	_
+8	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	아빠는	_	NOUN	NOUN	_	3	nsubj	_	_
+2	이탈리아	_	NOUN	PNOUN	_	3	compmod	_	_
+3	사람입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	14	advmod	_	_
+2	모간키간의	_	NOUN	PNOUN	_	6	poss	_	_
+3	채권분야	_	NOUN	NOUN	_	6	compmod	_	_
+4	책임자	_	NOUN	NOUN	_	6	compmod	_	_
+5	케빈	_	NOUN	PNOUN	_	6	compmod	_	_
+6	기디스는	_	NOUN	PNOUN	_	14	nsubj	_	_
+7	주택시장이	_	NOUN	NOUN	_	9	nsubjpass	_	_
+8	더	_	ADV	ADV	_	9	advmod	_	_
+9	침체돼	_	VERB	PREDCONJ	_	13	advcl	_	_
+10	올해	_	NOUN	NOUN	_	13	nmod	_	_
+11	주택가격이	_	NOUN	NOUN	_	13	nsubj	_	_
+12	4%	_	NOUN	NUMNOUN	_	13	advmod	_	_
+13	내려간다고	_	VERB	PREDCOMP	_	14	ccomp	_	_
+14	전망했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	PRON	PRON	_	2	adpobj	_	_
+2	때문에	_	ADP	ADP	_	16	adpmod	_	_
+3	오	_	NOUN	PNOUN	_	4	compmod	_	_
+4	시장이	_	NOUN	NOUN	_	12	nsubj	_	_
+5	주민투표	_	NOUN	NOUN	_	6	compmod	_	_
+6	문제를	_	NOUN	NOUN	_	7	dobj	_	_
+7	매듭짓고	_	VERB	PREDCONJ	_	9	conj	_	_
+8	대선에	_	ADV	ADV	_	9	advmod	_	_
+9	출마하는	_	VERB	PREDREL	_	10	rcmod	_	_
+10	시나리오를	_	NOUN	NOUN	_	12	dobj	_	_
+11	염두에	_	ADV	ADV	_	12	advmod	_	_
+12	두고	_	VERB	PREDCX	_	13	compmod	_	_
+13	있다는	_	VERB	PREDCOMP	_	16	ccomp	_	_
+14	분석이	_	NOUN	NOUN	_	16	nsubj	_	_
+15	여권에서	_	ADV	ADV	_	16	advmod	_	_
+16	나온다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	NOUN	PNOUN	_	2	compmod	_	_
+2	대통령이	_	NOUN	NOUN	_	5	nsubj	_	_
+3	남북문제와	_	ADV	ADV	_	4	advmod	_	_
+4	관련해	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	해온	_	VERB	PREDREL	_	6	rcmod	_	_
+6	말과	_	NOUN	NOMCONJ	_	9	conj	_	_
+7	실제	_	ADV	ADV	_	8	advmod	_	_
+8	내놓는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	정책	_	NOUN	NOUN	_	10	adpobj	_	_
+10	간에는	_	ADP	ADP	_	14	adpmod	_	_
+11	언제나	_	ADV	ADV	_	14	advmod	_	_
+12	큰	_	ADJ	ADJ	_	13	amod	_	_
+13	괴리가	_	NOUN	NOUN	_	14	nsubj	_	_
+14	있어왔다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	매연	_	NOUN	NOUN	_	2	compmod	_	_
+2	문제도	_	NOUN	NOUN	_	3	nsubj	_	_
+3	심각하다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	조인성은	_	NOUN	PNOUN	_	13	nsubj	_	_
+2	입대할	_	VERB	PREDREL	_	3	dep	_	_
+3	당시	_	NOUN	NOUN	_	4	compmod	_	_
+4	심경과	_	NOUN	NOMCONJ	_	9	conj	_	_
+5	군복무를	_	NOUN	NOUN	_	6	dobj	_	_
+6	하며	_	VERB	PREDCONJ	_	7	advcl	_	_
+7	생긴	_	VERB	PREDREL	_	9	rcmod	_	_
+8	배우로서의	_	NOUN	NOUN	_	9	poss	_	_
+9	공백기에	_	ADV	ADV	_	10	advmod	_	_
+10	대해	_	VERB	PREDCONJ	_	13	advcl	_	_
+11	솔직한	_	ADJ	ADJ	_	12	amod	_	_
+12	생각을	_	NOUN	NOUN	_	13	dobj	_	_
+13	털어놨다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	우리는	_	PRON	PRON	_	11	nsubj	_	_
+2	그가	_	PRON	PRON	_	3	nsubj	_	_
+3	지닌	_	VERB	PREDREL	_	4	rcmod	_	_
+4	꿈을	_	NOUN	NOUN	_	6	dobj	_	_
+5	반드시	_	ADV	ADV	_	6	advmod	_	_
+6	이루고	_	VERB	PREDCX	_	7	compmod	_	_
+7	말	_	VERB	PREDREL	_	8	dep	_	_
+8	것이라	_	VERB	PREDCOMP	_	9	ccomp	_	_
+9	믿으며	_	VERB	PREDCONJ	_	11	advcl	_	_
+10	박수를	_	NOUN	NOUN	_	11	dobj	_	_
+11	보냅니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	아기의	_	NOUN	NOUN	_	2	poss	_	_
+2	몸	_	NOUN	NOUN	_	3	adpobj	_	_
+3	중에서	_	ADP	ADP	_	5	adpmod	_	_
+4	가장	_	ADV	ADV	_	5	advmod	_	_
+5	연약한	_	VERB	PREDREL	_	6	rcmod	_	_
+6	부분은	_	NOUN	NOUN	_	7	nsubj	_	_
+7	어디일까?	_	VERB	ATTRCOP	_	0	ROOT	_	_
+
+1	견본주택은	_	NOUN	NOUN	_	9	nsubj	_	_
+2	지하철	_	NOUN	NOUN	_	6	compmod	_	_
+3	2호선	_	NOUN	NUMNOUN	_	6	compmod	_	_
+4	삼성역	_	NOUN	PNOUN	_	6	compmod	_	_
+5	7번	_	NOUN	NUMNOUN	_	6	compmod	_	_
+6	출구에	_	NOUN	NOUN	_	8	adpobj	_	_
+7	바로	_	ADV	ADV	_	8	advmod	_	_
+8	앞에	_	ADP	ADP	_	9	adpmod	_	_
+9	있다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	M&amp;A는	_	NOUN	NOUN	_	6	nsubj	_	_
+2	일반적으로	_	ADV	ADV	_	6	advmod	_	_
+3	시장에	_	ADV	ADV	_	6	advmod	_	_
+4	긍정적인	_	ADJ	ADJ	_	5	amod	_	_
+5	영향을	_	NOUN	NOUN	_	6	dobj	_	_
+6	미치는	_	VERB	PREDREL	_	7	dep	_	_
+7	것으로	_	ADV	ADV	_	8	advmod	_	_
+8	평가된다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	인터뷰는	_	NOUN	NOUN	_	5	nsubj	_	_
+2	새벽	_	NOUN	NOUN	_	3	compmod	_	_
+3	3시가	_	NOUN	NUMNOUN	_	4	nsubj	_	_
+4	넘어서	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	끝났다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	DET	DET	_	2	det	_	_
+2	사고로	_	ADV	ADV	_	15	advmod	_	_
+3	택시	_	NOUN	NOUN	_	5	compmod	_	_
+4	운전자	_	NOUN	NOUN	_	5	compmod	_	_
+5	신씨와	_	NOUN	NOMCONJ	_	10	conj	_	_
+6	포터트럭	_	NOUN	NOUN	_	8	compmod	_	_
+7	운전자	_	NOUN	NOUN	_	8	compmod	_	_
+8	구씨	_	NOUN	NOUN	_	10	conj	_	_
+9	,	_	.	.	_	8	p	_	_
+10	어린이	_	NOUN	NOUN	_	12	appos	_	_
+11	등	_	NOUN	NOUN	_	10	dep	_	_
+12	16명이	_	NOUN	NUMNOUN	_	15	nsubj	_	_
+13	경미한	_	ADJ	ADJ	_	14	amod	_	_
+14	부상을	_	NOUN	NOUN	_	15	dobj	_	_
+15	입어	_	VERB	PREDCONJ	_	18	advcl	_	_
+16	병원에서	_	ADV	ADV	_	18	advmod	_	_
+17	치료를	_	NOUN	NOUN	_	18	dobj	_	_
+18	받았다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	머레이는	_	NOUN	PNOUN	_	5	nsubj	_	_
+2	질	_	NOUN	PNOUN	_	3	compmod	_	_
+3	시몬(32위·프랑스)과	_	ADV	ADV	_	5	advmod	_	_
+4	3회전에서	_	ADV	ADV	_	5	advmod	_	_
+5	맞붙는다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	NOUN	PNOUN	_	2	compmod	_	_
+2	내정자는	_	NOUN	NOUN	_	8	nsubj	_	_
+3	이때부터	_	ADV	ADV	_	8	advmod	_	_
+4	2008년	_	NOUN	NUMNOUN	_	5	compmod	_	_
+5	5월까지	_	ADV	ADV	_	8	advmod	_	_
+6	임대료	_	NOUN	NOUN	_	7	compmod	_	_
+7	한푼도	_	NOUN	NOUN	_	8	dobj	_	_
+8	내지	_	VERB	PREDCX	_	9	compmod	_	_
+9	않았다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	노동계의	_	NOUN	NOUN	_	2	poss	_	_
+2	반발은	_	NOUN	NOUN	_	5	nsubj	_	_
+3	국민의	_	NOUN	NOUN	_	4	poss	_	_
+4	지지를	_	NOUN	NOUN	_	5	dobj	_	_
+5	받지	_	VERB	PREDCX	_	6	compmod	_	_
+6	못하고	_	VERB	PREDCX	_	7	compmod	_	_
+7	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	2010년	_	NOUN	NUMNOUN	_	2	compmod	_	_
+2	하반기에	_	ADV	ADV	_	3	advmod	_	_
+3	접어들수록	_	VERB	PREDCONJ	_	9	advcl	_	_
+4	태블릿	_	NOUN	NOUN	_	5	compmod	_	_
+5	PC에	_	ADV	ADV	_	6	advmod	_	_
+6	대한	_	VERB	PREDREL	_	7	dep	_	_
+7	소식이	_	NOUN	NOUN	_	8	nsubj	_	_
+8	많아지고	_	VERB	PREDCX	_	9	compmod	_	_
+9	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	20일	_	NOUN	NUMNOUN	_	8	nmod	_	_
+2	그랜드성형외과	_	NOUN	PNOUN	_	3	compmod	_	_
+3	홈페이지를	_	NOUN	NOUN	_	4	dobj	_	_
+4	통해	_	VERB	PREDCONJ	_	8	advcl	_	_
+5	신이의	_	NOUN	PNOUN	_	7	poss	_	_
+6	최근	_	NOUN	NOUN	_	7	compmod	_	_
+7	모습이	_	NOUN	NOUN	_	8	nsubjpass	_	_
+8	공개됐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이슬람권에서는	_	ADV	ADV	_	11	advmod	_	_
+2	아드하	_	NOUN	PNOUN	_	4	compmod	_	_
+3	명절	_	NOUN	NOUN	_	4	compmod	_	_
+4	때	_	NOUN	NOUN	_	9	nmod	_	_
+5	사원에서	_	ADV	ADV	_	9	advmod	_	_
+6	불우한	_	ADJ	ADJ	_	7	amod	_	_
+7	이웃에게	_	NOUN	NOUN	_	9	iobj	_	_
+8	선물을	_	NOUN	NOUN	_	9	dobj	_	_
+9	주는	_	VERB	PREDREL	_	10	dep	_	_
+10	것이	_	NOUN	NOUN	_	11	nsubj	_	_
+11	관례다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	653개	_	NOUN	NUMNOUN	_	2	compmod	_	_
+2	종목이	_	NOUN	NOUN	_	3	nsubj	_	_
+3	오르고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	240개	_	NOUN	NUMNOUN	_	5	compmod	_	_
+5	종목이	_	NOUN	NOUN	_	6	nsubj	_	_
+6	내렸다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	천안함	_	NOUN	PNOUN	_	3	compmod	_	_
+2	침몰	_	NOUN	NOUN	_	3	compmod	_	_
+3	원인은	_	NOUN	NOUN	_	6	nsubj	_	_
+4	여전히	_	ADV	ADV	_	6	advmod	_	_
+5	미궁에	_	ADV	ADV	_	6	advmod	_	_
+6	빠져	_	VERB	PREDCX	_	7	compmod	_	_
+7	있습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	김연아의	_	NOUN	PNOUN	_	3	poss	_	_
+2	당면	_	NOUN	NOUN	_	3	compmod	_	_
+3	과제는	_	NOUN	NOUN	_	7	nsubj	_	_
+4	새	_	ADJ	ADJ	_	5	amod	_	_
+5	코치를	_	NOUN	NOUN	_	6	dobj	_	_
+6	찾는	_	VERB	PREDREL	_	7	dep	_	_
+7	일이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	가장	_	ADV	ADV	_	2	advmod	_	_
+2	최근	_	NOUN	NOUN	_	3	compmod	_	_
+3	작품은	_	NOUN	NOUN	_	12	nsubj	_	_
+4	뉴욕	_	NOUN	PNOUN	_	5	compmod	_	_
+5	도시와	_	NOUN	NOMCONJ	_	6	conj	_	_
+6	간판	_	NOUN	NOUN	_	11	conj	_	_
+7	,	_	.	.	_	6	p	_	_
+8	그리고	_	CONJ	CONJ	_	11	cc	_	_
+9	길을	_	NOUN	NOUN	_	10	dobj	_	_
+10	걷는	_	VERB	PREDREL	_	11	rcmod	_	_
+11	도시인들의	_	NOUN	NOUN	_	12	poss	_	_
+12	모습이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	문경은	_	NOUN	PNOUN	_	2	compmod	_	_
+2	감독과	_	NOUN	NOMCONJ	_	3	conj	_	_
+3	저도	_	PRON	PRON	_	7	nsubj	_	_
+4	젊은	_	ADJ	ADJ	_	5	amod	_	_
+5	나이에	_	ADV	ADV	_	7	advmod	_	_
+6	지도자가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	됐습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	환율	_	NOUN	NOUN	_	2	compmod	_	_
+2	변동은	_	NOUN	NOUN	_	8	nsubjpass	_	_
+3	그	_	DET	DET	_	4	det	_	_
+4	나라의	_	NOUN	NOUN	_	6	poss	_	_
+5	종합적	_	ADJ	ADJ	_	6	amod	_	_
+6	경제상황에	_	ADV	ADV	_	7	advmod	_	_
+7	따라	_	VERB	PREDCONJ	_	8	advcl	_	_
+8	결정된다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	지난	_	VERB	PREDREL	_	2	rcmod	_	_
+2	5월	_	NOUN	NUMNOUN	_	4	nmod	_	_
+3	입주를	_	NOUN	NOUN	_	4	dobj	_	_
+4	시작한	_	VERB	PREDREL	_	5	rcmod	_	_
+5	B아파트	_	NOUN	NOUN	_	10	nsubjpass	_	_
+6	역시	_	ADV	ADV	_	10	advmod	_	_
+7	근거	_	NOUN	NOUN	_	8	nsubj	_	_
+8	없는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	소문에	_	ADV	ADV	_	10	advmod	_	_
+10	시달리고	_	VERB	PREDCX	_	11	compmod	_	_
+11	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	당황한	_	ADJ	ADJ	_	3	amod	_	_
+2	관리회사	_	NOUN	NOUN	_	3	compmod	_	_
+3	직원이	_	NOUN	NOUN	_	8	nsubj	_	_
+4	부부와	_	ADV	ADV	_	8	advmod	_	_
+5	함께	_	ADV	ADV	_	8	advmod	_	_
+6	아파트	_	NOUN	NOUN	_	7	compmod	_	_
+7	안을	_	NOUN	NOUN	_	8	dobj	_	_
+8	점검했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	DET	DET	_	2	det	_	_
+2	신문은	_	NOUN	NOUN	_	12	nsubj	_	_
+3	"쇼트프로그램에서	_	ADV	ADV	_	5	advmod	_	_
+4	수위로	_	ADV	ADV	_	5	advmod	_	_
+5	출발한	_	VERB	PREDREL	_	6	rcmod	_	_
+6	김연아가	_	NOUN	PNOUN	_	9	nsubj	_	_
+7	역대	_	NOUN	NOUN	_	8	compmod	_	_
+8	최고점을	_	NOUN	NOUN	_	9	dobj	_	_
+9	올리며	_	VERB	PREDCONJ	_	11	advcl	_	_
+10	금메달을	_	NOUN	NOUN	_	11	dobj	_	_
+11	획득했다"고	_	VERB	PREDCOMP	_	12	ccomp	_	_
+12	보도했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	네티즌들은	_	NOUN	NOUN	_	7	nsubj	_	_
+2	김	_	NOUN	PNOUN	_	3	compmod	_	_
+3	감독의	_	NOUN	NOUN	_	6	poss	_	_
+4	사퇴	_	NOUN	NOUN	_	6	compmod	_	_
+5	표명	_	NOUN	NOUN	_	6	compmod	_	_
+6	철회를	_	NOUN	NOUN	_	7	dobj	_	_
+7	요구했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	정엽은	_	NOUN	PNOUN	_	9	nsubj	_	_
+2	유재석의	_	NOUN	PNOUN	_	3	poss	_	_
+3	노래에	_	ADV	ADV	_	4	advmod	_	_
+4	대해	_	VERB	PREDCONJ	_	9	advcl	_	_
+5	감정	_	NOUN	NOUN	_	6	compmod	_	_
+6	전달은	_	NOUN	NOUN	_	7	nsubj	_	_
+7	좋았다고	_	VERB	PREDCOMP	_	9	ccomp	_	_
+8	평가를	_	NOUN	NOUN	_	9	dobj	_	_
+9	내렸다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	6시30분	_	NOUN	NUMNOUN	_	3	nmod	_	_
+2	회의가	_	NOUN	NOUN	_	3	nsubjpass	_	_
+3	시작되자마자	_	VERB	PREDCONJ	_	5	advcl	_	_
+4	격론이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	벌어졌다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	현재까지	_	ADV	ADV	_	4	advmod	_	_
+2	400여	_	NOUN	NUMNOUN	_	3	num	_	_
+3	명이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	사망했고	_	VERB	PREDCONJ	_	10	conj	_	_
+5	피해	_	NOUN	NOUN	_	6	compmod	_	_
+6	규모는	_	NOUN	NOUN	_	8	nsubj	_	_
+7	더	_	ADV	ADV	_	8	advmod	_	_
+8	커질	_	VERB	PREDREL	_	9	dep	_	_
+9	것으로	_	ADV	ADV	_	10	advmod	_	_
+10	보입니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	박근혜	_	NOUN	PNOUN	_	3	compmod	_	_
+2	전	_	NOUN	NOUN	_	3	compmod	_	_
+3	대표의	_	NOUN	NOUN	_	4	poss	_	_
+4	반응은	_	NOUN	NOUN	_	5	nsubj	_	_
+5	싸늘했습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	밥	_	NOUN	NOUN	_	2	dobj	_	_
+2	먹다	_	VERB	PREDCX	_	3	compmod	_	_
+3	말고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	오빠가	_	NOUN	NOUN	_	6	nsubj	_	_
+5	나를	_	PRON	PRON	_	6	dobj	_	_
+6	놀렸습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	변화는	_	NOUN	NOUN	_	2	nsubj	_	_
+2	수단이고	_	VERB	PREDCONJ	_	4	conj	_	_
+3	통합은	_	NOUN	NOUN	_	4	nsubj	_	_
+4	목표다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	연구진은	_	NOUN	NOUN	_	9	nsubj	_	_
+2	현존하는	_	VERB	PREDREL	_	4	rcmod	_	_
+3	대부분의	_	NOUN	NOUN	_	4	poss	_	_
+4	현상들이	_	NOUN	NOUN	_	7	nsubj	_	_
+5	이러한	_	ADJ	ADJ	_	6	amod	_	_
+6	원칙을	_	NOUN	NOUN	_	7	dobj	_	_
+7	따르고	_	VERB	PREDCX	_	8	compmod	_	_
+8	있었다고	_	VERB	PREDCOMP	_	9	ccomp	_	_
+9	전했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	의외로	_	ADV	ADV	_	7	advmod	_	_
+2	이	_	DET	DET	_	3	det	_	_
+3	버튼을	_	NOUN	NOUN	_	4	dobj	_	_
+4	모르는	_	VERB	PREDREL	_	5	rcmod	_	_
+5	사람들이	_	NOUN	NOUN	_	7	nsubj	_	_
+6	꽤	_	ADV	ADV	_	7	advmod	_	_
+7	있다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	도쿄는	_	NOUN	PNOUN	_	7	nsubj	_	_
+2	후쿠시마	_	NOUN	PNOUN	_	3	compmod	_	_
+3	원전에서	_	ADV	ADV	_	7	advmod	_	_
+4	남서쪽으로	_	ADV	ADV	_	7	advmod	_	_
+5	240㎞	_	NOUN	NUMNOUN	_	6	adpobj	_	_
+6	정도	_	ADP	ADP	_	7	adpmod	_	_
+7	떨어져	_	VERB	PREDCX	_	8	compmod	_	_
+8	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	나는	_	PRON	PRON	_	8	nsubj	_	_
+2	바르셀로나의	_	NOUN	PNOUN	_	3	poss	_	_
+3	메시와	_	NOUN	NOMCONJ	_	5	conj	_	_
+4	아르헨티나의	_	NOUN	PNOUN	_	5	poss	_	_
+5	메시가	_	NOUN	PNOUN	_	6	nsubj	_	_
+6	다르다는	_	VERB	PREDREL	_	7	dep	_	_
+7	것에	_	ADV	ADV	_	8	advmod	_	_
+8	주목한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	그가	_	PRON	PRON	_	2	nsubj	_	_
+2	연출했던	_	VERB	PREDREL	_	4	rcmod	_	_
+3	대부분의	_	NOUN	NOUN	_	4	poss	_	_
+4	작품에서	_	ADV	ADV	_	11	advmod	_	_
+5	주인공	_	NOUN	NOUN	_	6	adpobj	_	_
+6	중	_	ADP	ADP	_	7	adpmod	_	_
+7	한	_	NUM	NUM	_	8	num	_	_
+8	명은	_	NOUN	NOUN	_	11	nsubj	_	_
+9	꼭	_	ADV	ADV	_	11	advmod	_	_
+10	죽음을	_	NOUN	NOUN	_	11	dobj	_	_
+11	맞이했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	오	_	NOUN	PNOUN	_	2	compmod	_	_
+2	시장은	_	NOUN	NOUN	_	17	nsubj	_	_
+3	지난	_	VERB	PREDREL	_	4	rcmod	_	_
+4	3월	_	NOUN	NUMNOUN	_	5	compmod	_	_
+5	초	_	NOUN	NOUN	_	8	nmod	_	_
+6	영화	_	NOUN	NOUN	_	7	compmod	_	_
+7	&lt;아이들	_	NOUN	PNOUN	_	8	dobj	_	_
+8	보고	_	VERB	PREDCONJ	_	17	conj	_	_
+9	,	_	.	.	_	8	p	_	_
+10	실종아동	_	NOUN	NOUN	_	11	compmod	_	_
+11	문제에	_	ADV	ADV	_	12	advmod	_	_
+12	대한	_	VERB	PREDREL	_	13	dep	_	_
+13	심각성을	_	NOUN	NOUN	_	14	dobj	_	_
+14	인식	_	NOUN	NOUN	_	17	conj	_	_
+15	,	_	.	.	_	14	p	_	_
+16	관심을	_	NOUN	NOUN	_	17	dobj	_	_
+17	기울여왔다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	수강료는	_	NOUN	NOUN	_	2	nsubj	_	_
+2	무료다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	이	_	DET	DET	_	2	det	_	_
+2	식당	_	NOUN	NOUN	_	5	compmod	_	_
+3	그레이스	_	NOUN	PNOUN	_	5	compmod	_	_
+4	박	_	NOUN	PNOUN	_	5	compmod	_	_
+5	대표는	_	NOUN	NOUN	_	16	nsubj	_	_
+6	레지스터와의	_	NOUN	PNOUN	_	7	poss	_	_
+7	인터뷰에서	_	ADV	ADV	_	16	advmod	_	_
+8	"순두부찌게	_	NOUN	NOUN	_	9	compmod	_	_
+9	맛의	_	NOUN	NOUN	_	10	poss	_	_
+10	비결은	_	NOUN	NOUN	_	12	nsubj	_	_
+11	남편에게도	_	ADV	ADV	_	12	advmod	_	_
+12	비밀"이라며	_	VERB	PREDCONJ	_	16	advcl	_	_
+13	맛에	_	ADV	ADV	_	14	advmod	_	_
+14	대한	_	VERB	PREDREL	_	15	dep	_	_
+15	자신감을	_	NOUN	NOUN	_	16	dobj	_	_
+16	드러냈다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	건물주들은	_	NOUN	NOUN	_	6	nsubj	_	_
+2	모래	_	NOUN	NOUN	_	3	compmod	_	_
+3	주머니	_	NOUN	NOUN	_	6	advmod	_	_
+4	등으로	_	ADV	ADV	_	3	dep	_	_
+5	차단벽을	_	NOUN	NOUN	_	6	dobj	_	_
+6	세우고	_	VERB	PREDCX	_	7	compmod	_	_
+7	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	NOUN	PNOUN	_	2	compmod	_	_
+2	대통령은	_	NOUN	NOUN	_	10	nsubj	_	_
+3	이날	_	NOUN	NOUN	_	10	nmod	_	_
+4	작업	_	NOUN	NOUN	_	5	compmod	_	_
+5	현장을	_	NOUN	NOUN	_	6	dobj	_	_
+6	둘러보고	_	VERB	PREDCONJ	_	10	conj	_	_
+7	,	_	.	.	_	6	p	_	_
+8	근로자들과	_	ADV	ADV	_	10	advmod	_	_
+9	환담을	_	NOUN	NOUN	_	10	dobj	_	_
+10	나눴다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	좌뇌의	_	NOUN	NOUN	_	2	poss	_	_
+2	경우에는	_	ADV	ADV	_	6	advmod	_	_
+3	세밀한	_	ADJ	ADJ	_	4	amod	_	_
+4	정보를	_	NOUN	NOUN	_	5	dobj	_	_
+5	파악하는데	_	VERB	PREDCONJ	_	6	advcl	_	_
+6	유리하다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	그런데	_	ADV	ADV	_	8	advmod	_	_
+2	어떻게	_	ADV	ADV	_	6	advmod	_	_
+3	이런	_	ADJ	ADJ	_	5	amod	_	_
+4	어처구니없는	_	ADJ	ADJ	_	5	amod	_	_
+5	부품결함이	_	NOUN	NOUN	_	6	nsubj	_	_
+6	일어날	_	VERB	PREDREL	_	7	dep	_	_
+7	수	_	NOUN	NOUN	_	8	nsubj	_	_
+8	있을까요?	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	점원은	_	NOUN	NOUN	_	7	nsubj	_	_
+2	금방	_	ADV	ADV	_	3	advmod	_	_
+3	알아차리고	_	VERB	PREDCONJ	_	7	conj	_	_
+4	망치	_	NOUN	NOUN	_	5	compmod	_	_
+5	하나와	_	NOUN	NOMCONJ	_	6	conj	_	_
+6	못을	_	NOUN	NOUN	_	7	dobj	_	_
+7	내왔다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	흔한	_	ADJ	ADJ	_	2	amod	_	_
+2	부작용으로는	_	ADV	ADV	_	9	advmod	_	_
+3	입이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	마르거나	_	VERB	PREDCONJ	_	9	conj	_	_
+5	변비	_	NOUN	NOUN	_	7	conj	_	_
+6	,	_	.	.	_	5	p	_	_
+7	식도역류	_	NOUN	NOUN	_	8	compmod	_	_
+8	증상이	_	NOUN	NOUN	_	9	nsubj	_	_
+9	있다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	11	advmod	_	_
+2	인도에서는	_	ADV	ADV	_	11	advmod	_	_
+3	사람의	_	NOUN	NOUN	_	4	poss	_	_
+4	체취나	_	NOUN	NOMCONJ	_	6	conj	_	_
+5	방안의	_	NOUN	NOUN	_	6	poss	_	_
+6	악취를	_	NOUN	NOUN	_	7	dobj	_	_
+7	없애기	_	NOUN	NOUN	_	8	dobj	_	_
+8	위해서	_	VERB	PREDCONJ	_	11	advcl	_	_
+9	옛날부터	_	ADV	ADV	_	11	advmod	_	_
+10	향을	_	NOUN	NOUN	_	11	dobj	_	_
+11	사용했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	관중이	_	NOUN	NOUN	_	2	nsubj	_	_
+2	모이자	_	VERB	PREDCONJ	_	5	advcl	_	_
+3	응원	_	NOUN	NOUN	_	4	compmod	_	_
+4	열기도	_	NOUN	NOUN	_	5	nsubj	_	_
+5	달아올랐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	KB국민카드는	_	NOUN	PNOUN	_	6	nsubj	_	_
+2	이를	_	PRON	PRON	_	3	dobj	_	_
+3	위해	_	VERB	PREDCONJ	_	6	advcl	_	_
+4	다양한	_	ADJ	ADJ	_	5	amod	_	_
+5	신상품을	_	NOUN	NOUN	_	6	dobj	_	_
+6	내놓았다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	박	_	NOUN	PNOUN	_	2	compmod	_	_
+2	원장은	_	NOUN	NOUN	_	4	nsubj	_	_
+3	미소를	_	NOUN	NOUN	_	4	dobj	_	_
+4	지으며	_	VERB	PREDCONJ	_	10	advcl	_	_
+5	"방금	_	ADV	ADV	_	9	advmod	_	_
+6	새로운	_	ADJ	ADJ	_	8	amod	_	_
+7	발명	_	NOUN	NOUN	_	8	compmod	_	_
+8	아이디어가	_	NOUN	NOUN	_	9	nsubj	_	_
+9	나왔다"고	_	VERB	PREDCOMP	_	10	ccomp	_	_
+10	말했다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	인도GP는	_	NOUN	PNOUN	_	7	nsubj	_	_
+2	F1	_	NOUN	PNOUN	_	3	compmod	_	_
+3	역사상	_	NOUN	NOUN	_	4	compmod	_	_
+4	처음으로	_	ADV	ADV	_	6	advmod	_	_
+5	남아시아에서	_	ADV	ADV	_	6	advmod	_	_
+6	열리는	_	VERB	PREDREL	_	7	rcmod	_	_
+7	대회다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	우리는	_	PRON	PRON	_	6	nsubj	_	_
+2	지금	_	ADV	ADV	_	6	advmod	_	_
+3	삶의	_	NOUN	NOUN	_	5	poss	_	_
+4	혁명적	_	ADJ	ADJ	_	5	amod	_	_
+5	변화를	_	NOUN	NOUN	_	6	dobj	_	_
+6	경험하고	_	VERB	PREDCX	_	7	compmod	_	_
+7	있습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	이	_	DET	DET	_	2	det	_	_
+2	지역에서는	_	ADV	ADV	_	6	advmod	_	_
+3	현재	_	ADV	ADV	_	6	advmod	_	_
+4	사실상	_	ADV	ADV	_	6	advmod	_	_
+5	어업활동이	_	NOUN	NOUN	_	6	nsubjpass	_	_
+6	중단됐다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	역시	_	ADV	ADV	_	4	advmod	_	_
+2	중소형이	_	NOUN	NOUN	_	4	nsubj	_	_
+3	60%가	_	NOUN	NUMNOUN	_	4	nsubj	_	_
+4	넘는다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	같은	_	ADJ	ADJ	_	2	amod	_	_
+2	날	_	NOUN	NOUN	_	8	nmod	_	_
+3	대우건설은	_	NOUN	PNOUN	_	8	nsubj	_	_
+4	부산	_	NOUN	PNOUN	_	6	compmod	_	_
+5	사하구	_	NOUN	PNOUN	_	6	compmod	_	_
+6	다대동에	_	ADV	ADV	_	8	advmod	_	_
+7	부산다대푸르지오를	_	NOUN	PNOUN	_	8	dobj	_	_
+8	분양한다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	집안싸움	_	NOUN	NOUN	_	2	adpobj	_	_
+2	때문에	_	ADP	ADP	_	4	adpmod	_	_
+3	고용이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	불안했거든요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	대한민국	_	NOUN	PNOUN	_	2	compmod	_	_
+2	헌법은	_	NOUN	NOUN	_	7	nsubj	_	_
+3	국민의	_	NOUN	NOUN	_	4	poss	_	_
+4	보통·평등·직접·비밀선거를	_	NOUN	NOUN	_	7	dobj	_	_
+5	선거의	_	NOUN	NOUN	_	6	poss	_	_
+6	기본원칙으로	_	ADV	ADV	_	7	advmod	_	_
+7	규정하고	_	VERB	PREDCX	_	8	compmod	_	_
+8	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	지난해	_	NOUN	NOUN	_	6	nmod	_	_
+2	매출액은	_	NOUN	NOUN	_	3	nsubj	_	_
+3	6188억원	_	NOUN	NUMNOUN	_	6	conj	_	_
+4	,	_	.	.	_	3	p	_	_
+5	순이익은	_	NOUN	NOUN	_	6	nsubj	_	_
+6	264억원이다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	승자는	_	NOUN	NOUN	_	4	nsubj	_	_
+2	'최종병기	_	NOUN	PNOUN	_	3	compmod	_	_
+3	활'이	_	NOUN	PNOUN	_	4	nsubj	_	_
+4	될	_	VERB	PREDREL	_	5	dep	_	_
+5	가능성이	_	NOUN	NOUN	_	6	nsubj	_	_
+6	짙다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	남쪽에서는	_	ADV	ADV	_	5	advmod	_	_
+2	제14호	_	NOUN	NUMNOUN	_	4	compmod	_	_
+3	태풍	_	NOUN	NOUN	_	4	compmod	_	_
+4	'차바'가	_	NOUN	PNOUN	_	5	nsubj	_	_
+5	올라오고	_	VERB	PREDCX	_	6	compmod	_	_
+6	있는데요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	어젯밤	_	NOUN	NOUN	_	3	compmod	_	_
+2	10시	_	NOUN	NUMNOUN	_	3	compmod	_	_
+3	45분쯤에는	_	ADV	ADV	_	14	advmod	_	_
+4	서울	_	NOUN	PNOUN	_	9	compmod	_	_
+5	마포구	_	NOUN	PNOUN	_	9	compmod	_	_
+6	동교동	_	NOUN	PNOUN	_	9	compmod	_	_
+7	창천동	_	NOUN	PNOUN	_	9	compmod	_	_
+8	삼거리	_	NOUN	NOUN	_	9	compmod	_	_
+9	부근	_	NOUN	NOUN	_	11	compmod	_	_
+10	한	_	NUM	NUM	_	11	num	_	_
+11	버스전용차로에서	_	ADV	ADV	_	14	advmod	_	_
+12	승용차와	_	NOUN	NOMCONJ	_	13	conj	_	_
+13	시내버스가	_	NOUN	NOUN	_	14	nsubj	_	_
+14	충돌했습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	생산직	_	NOUN	NOUN	_	2	compmod	_	_
+2	근로자들은	_	NOUN	NOUN	_	5	nsubj	_	_
+3	100%	_	NOUN	NUMNOUN	_	4	compmod	_	_
+4	특별보너스까지	_	NOUN	NOUN	_	5	dobj	_	_
+5	받는다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	구이도	_	NOUN	NOUN	_	3	nsubj	_	_
+2	진짜	_	ADV	ADV	_	3	advmod	_	_
+3	맛있네요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	오늘	_	NOUN	NOUN	_	2	compmod	_	_
+2	저녁에	_	ADV	ADV	_	4	advmod	_	_
+3	도루묵찜	_	NOUN	NOUN	_	4	dobj	_	_
+4	먹고	_	VERB	PREDCONJ	_	6	conj	_	_
+5	정말	_	ADV	ADV	_	6	advmod	_	_
+6	후회됩니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	가족	_	NOUN	NOUN	_	3	compmod	_	_
+2	단위	_	NOUN	NOUN	_	3	compmod	_	_
+3	손님도	_	NOUN	NOUN	_	4	nsubj	_	_
+4	많고	_	VERB	PREDCONJ	_	7	conj	_	_
+5	회식하시는	_	VERB	PREDREL	_	6	rcmod	_	_
+6	분들도	_	NOUN	NOUN	_	7	nsubj	_	_
+7	많아요!	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	국물이	_	NOUN	NOUN	_	2	nsubj	_	_
+2	진하고	_	VERB	PREDCONJ	_	9	conj	_	_
+3	고기가	_	NOUN	NOUN	_	4	nsubj	_	_
+4	부드럽고	_	VERB	PREDCONJ	_	9	conj	_	_
+5	특히	_	ADV	ADV	_	7	advmod	_	_
+6	냄새가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	없어	_	VERB	PREDCONJ	_	9	advcl	_	_
+8	정말	_	ADV	ADV	_	9	advmod	_	_
+9	맛있어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	사장님도	_	NOUN	NOUN	_	4	nsubj	_	_
+2	좋은	_	ADJ	ADJ	_	3	amod	_	_
+3	분	_	NOUN	NOUN	_	4	nsubj	_	_
+4	같으시고	_	VERB	PREDCONJ	_	10	conj	_	_
+5	손님	_	NOUN	NOUN	_	6	dobj	_	_
+6	만나	_	VERB	PREDCONJ	_	8	advcl	_	_
+7	얘기	_	NOUN	NOUN	_	8	dobj	_	_
+8	나누기	_	NOUN	NOUN	_	9	csubj	_	_
+9	좋은	_	VERB	PREDREL	_	10	rcmod	_	_
+10	장소입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	7	advmod	_	_
+2	고기	_	NOUN	NOUN	_	4	dobj	_	_
+3	다	_	ADV	ADV	_	4	advmod	_	_
+4	먹고	_	VERB	PREDCONJ	_	5	conj	_	_
+5	나오는	_	VERB	PREDREL	_	6	rcmod	_	_
+6	들깨칼국수는	_	NOUN	NOUN	_	7	nsubj	_	_
+7	별미더라고요.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	심석고등학교	_	NOUN	PNOUN	_	2	compmod	_	_
+2	정문에서	_	ADV	ADV	_	5	advmod	_	_
+3	화도파출소쪽으로	_	ADV	ADV	_	5	advmod	_	_
+4	3건물	_	NOUN	NUMNOUN	_	5	dobj	_	_
+5	내려오시면	_	VERB	PREDCONJ	_	6	advcl	_	_
+6	있습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	아주머니가	_	NOUN	NOUN	_	2	nsubj	_	_
+2	친절하시고	_	VERB	PREDCONJ	_	5	conj	_	_
+3	옷을	_	NOUN	NOUN	_	5	dobj	_	_
+4	예쁘게	_	ADV	ADV	_	5	advmod	_	_
+5	고쳐주신다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	다양한	_	ADJ	ADJ	_	2	amod	_	_
+2	메뉴가	_	NOUN	NOUN	_	3	nsubjpass	_	_
+3	준비되어	_	VERB	PREDCX	_	4	compmod	_	_
+4	있다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	직원들	_	NOUN	NOUN	_	3	nsubj	_	_
+2	완전	_	ADV	ADV	_	3	advmod	_	_
+3	불친절합니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	월풀도	_	NOUN	NOUN	_	2	nsubj	_	_
+2	커서	_	VERB	PREDCONJ	_	6	advcl	_	_
+3	가족이	_	NOUN	NOUN	_	5	nsubj	_	_
+4	같이	_	ADV	ADV	_	5	advmod	_	_
+5	이용하기	_	NOUN	NOUN	_	6	csubj	_	_
+6	좋네요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	위치나	_	NOUN	NOMCONJ	_	2	conj	_	_
+2	인테리어는	_	NOUN	NOUN	_	3	nsubj	_	_
+3	좋습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	설렁탕이	_	NOUN	NOUN	_	3	dobj	_	_
+2	정말	_	ADV	ADV	_	3	advmod	_	_
+3	먹고	_	VERB	PREDCX	_	4	compmod	_	_
+4	싶었었는데	_	VERB	PREDCONJ	_	7	advcl	_	_
+5	정말	_	ADV	ADV	_	7	advmod	_	_
+6	국물도	_	NOUN	NOUN	_	7	nsubj	_	_
+7	진국이고	_	VERB	PREDCONJ	_	12	conj	_	_
+8	애들이	_	NOUN	NOUN	_	10	nsubj	_	_
+9	정말	_	ADV	ADV	_	10	advmod	_	_
+10	좋아하는	_	VERB	PREDREL	_	11	dep	_	_
+11	것	_	NOUN	NOUN	_	12	nsubj	_	_
+12	같아요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	하지만	_	ADV	ADV	_	6	advmod	_	_
+2	아가들	_	NOUN	NOUN	_	4	compmod	_	_
+3	놀이방	_	NOUN	NOUN	_	4	compmod	_	_
+4	시설이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	없어서	_	VERB	PREDCONJ	_	6	advcl	_	_
+6	불편했답니다!	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	아줌마도	_	NOUN	NOUN	_	2	nsubj	_	_
+2	친절하시고	_	VERB	PREDCONJ	_	6	conj	_	_
+3	메뉴	_	NOUN	NOUN	_	6	nsubj	_	_
+4	모두	_	ADV	ADV	_	5	advmod	_	_
+5	다	_	ADV	ADV	_	6	advmod	_	_
+6	맛있어서	_	VERB	PREDCONJ	_	9	advcl	_	_
+7	또	_	ADV	ADV	_	8	advmod	_	_
+8	가고	_	VERB	PREDCX	_	9	compmod	_	_
+9	싶은	_	VERB	PREDREL	_	10	rcmod	_	_
+10	곳이에요.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	친절하고	_	VERB	PREDCONJ	_	2	conj	_	_
+2	따뜻한	_	ADJ	ADJ	_	3	amod	_	_
+3	어머니	_	NOUN	NOUN	_	4	nsubj	_	_
+4	같으시네요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	순창에선	_	ADV	ADV	_	6	advmod	_	_
+2	가장	_	ADV	ADV	_	3	advmod	_	_
+3	넓고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	쾌적하고	_	VERB	PREDCONJ	_	6	conj	_	_
+5	시설이	_	NOUN	NOUN	_	6	nsubj	_	_
+6	좋은	_	VERB	PREDREL	_	7	rcmod	_	_
+7	노래방!	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	남해	_	ADV	ADV	_	2	advmod	_	_
+2	와서	_	VERB	PREDCONJ	_	6	advcl	_	_
+3	물회	_	NOUN	NOUN	_	5	dobj	_	_
+4	안	_	ADV	ADV	_	5	neg	_	_
+5	먹고	_	VERB	PREDCONJ	_	6	conj	_	_
+6	가면	_	VERB	PREDCONJ	_	7	advcl	_	_
+7	후회합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	주유소	_	NOUN	NOUN	_	3	adpobj	_	_
+2	바로	_	ADV	ADV	_	3	advmod	_	_
+3	옆에	_	ADP	ADP	_	4	adpmod	_	_
+4	있어서	_	VERB	PREDCONJ	_	7	advcl	_	_
+5	주차	_	NOUN	NOUN	_	6	compmod	_	_
+6	공간이	_	NOUN	NOUN	_	7	nsubj	_	_
+7	넓네요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	주인이	_	NOUN	NOUN	_	2	nsubjpass	_	_
+2	바뀌어서	_	VERB	PREDCONJ	_	6	advcl	_	_
+3	젖가락	_	NOUN	NOUN	_	5	compmod	_	_
+4	쿠폰	_	NOUN	NOUN	_	5	compmod	_	_
+5	적용	_	NOUN	NOUN	_	6	nsubj	_	_
+6	안되네요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	오늘	_	ADV	ADV	_	2	advmod	_	_
+2	가봤는데	_	VERB	PREDCONJ	_	4	advcl	_	_
+3	자장면은	_	NOUN	NOUN	_	4	nsubj	_	_
+4	괜찮았어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	의사	_	NOUN	NOUN	_	2	compmod	_	_
+2	선생님이	_	NOUN	NOUN	_	4	nsubj	_	_
+3	꼼꼼히	_	ADV	ADV	_	4	advmod	_	_
+4	진료하시고	_	VERB	PREDCONJ	_	13	conj	_	_
+5	,	_	.	.	_	4	p	_	_
+6	제	_	PRON	PRON	_	7	poss	_	_
+7	이야기도	_	NOUN	NOUN	_	9	dobj	_	_
+8	잘	_	ADV	ADV	_	9	advmod	_	_
+9	들어주시고	_	VERB	PREDCONJ	_	13	conj	_	_
+10	,	_	.	.	_	9	p	_	_
+11	답변도	_	NOUN	NOUN	_	13	dobj	_	_
+12	잘	_	ADV	ADV	_	13	advmod	_	_
+13	해주시네요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	사장처럼	_	ADV	ADV	_	2	advmod	_	_
+2	보이는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	아줌마가	_	NOUN	NOUN	_	4	nsubj	_	_
+4	있는데	_	VERB	PREDCONJ	_	6	advcl	_	_
+5	완전	_	ADV	ADV	_	6	advmod	_	_
+6	불친절합니다!	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	사람	_	NOUN	NOUN	_	2	nsubj	_	_
+2	많은	_	VERB	PREDREL	_	3	rcmod	_	_
+3	속초보다는	_	ADV	ADV	_	7	advmod	_	_
+4	조용하고	_	VERB	PREDCONJ	_	5	conj	_	_
+5	깨끗한	_	ADJ	ADJ	_	6	amod	_	_
+6	주문진도	_	NOUN	PNOUN	_	7	nsubj	_	_
+7	좋아요!	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	15년	_	NOUN	NUMNOUN	_	2	adpobj	_	_
+2	전에는	_	ADP	ADP	_	3	adpmod	_	_
+3	맛있었지만	_	VERB	PREDCONJ	_	7	advcl	_	_
+4	지금은	_	ADV	ADV	_	7	advmod	_	_
+5	명성을	_	NOUN	NOUN	_	7	dobj	_	_
+6	완전히	_	ADV	ADV	_	7	advmod	_	_
+7	잃었죠.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	그늘	_	NOUN	PNOUN	_	2	compmod	_	_
+2	식당이	_	NOUN	NOUN	_	5	nsubj	_	_
+3	청담	_	NOUN	PNOUN	_	4	compmod	_	_
+4	식당으로	_	ADV	ADV	_	5	advmod	_	_
+5	바뀌었구요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	원장님이	_	NOUN	NOUN	_	5	nsubj	_	_
+2	어린이집을	_	NOUN	NOUN	_	3	dobj	_	_
+3	운영할	_	VERB	PREDREL	_	4	dep	_	_
+4	자질이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	있는지	_	VERB	PREDCOMP	_	6	csubj	_	_
+6	의문이네요.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	손님이	_	NOUN	NOUN	_	3	nsubj	_	_
+2	왕으로	_	ADV	ADV	_	3	advmod	_	_
+3	대접받을	_	VERB	PREDREL	_	8	advcl	_	_
+4	때	_	NOUN	NOUN	_	3	mark	_	_
+5	그	_	DET	DET	_	6	det	_	_
+6	식당은	_	NOUN	NOUN	_	8	nsubj	_	_
+7	더	_	ADV	ADV	_	8	advmod	_	_
+8	번창할겁니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	국내산	_	NOUN	NOUN	_	2	compmod	_	_
+2	고기와	_	NOUN	NOMCONJ	_	4	conj	_	_
+3	싱싱한	_	ADJ	ADJ	_	4	amod	_	_
+4	야채를	_	NOUN	NOUN	_	8	dobj	_	_
+5	마음껏	_	ADV	ADV	_	8	advmod	_	_
+6	저렴한	_	ADJ	ADJ	_	7	amod	_	_
+7	가격에	_	ADV	ADV	_	8	advmod	_	_
+8	먹을	_	VERB	PREDREL	_	9	dep	_	_
+9	수	_	NOUN	NOUN	_	10	nsubj	_	_
+10	있어서	_	VERB	PREDCONJ	_	11	advcl	_	_
+11	좋았습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	조미료를	_	NOUN	NOUN	_	3	dobj	_	_
+2	일절	_	ADV	ADV	_	3	advmod	_	_
+3	사용하지	_	VERB	PREDCX	_	4	compmod	_	_
+4	않고	_	VERB	PREDCONJ	_	9	conj	_	_
+5	몸에	_	ADV	ADV	_	6	advmod	_	_
+6	좋은	_	VERB	PREDREL	_	7	rcmod	_	_
+7	재료만	_	NOUN	NOUN	_	8	dobj	_	_
+8	골라서	_	VERB	PREDCONJ	_	9	advcl	_	_
+9	준비하신다고	_	VERB	PREDCOMP	_	10	ccomp	_	_
+10	합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	거기	_	ADV	ADV	_	2	advmod	_	_
+2	가서	_	VERB	PREDCONJ	_	4	advcl	_	_
+3	먹고	_	VERB	PREDCONJ	_	4	conj	_	_
+4	오면	_	VERB	PREDCONJ	_	12	advcl	_	_
+5	,	_	.	.	_	4	p	_	_
+6	열번	_	NOUN	NUMNOUN	_	7	adpobj	_	_
+7	중	_	ADP	ADP	_	8	adpmod	_	_
+8	다섯	_	NUM	NUM	_	9	num	_	_
+9	번은	_	NOUN	NOUN	_	12	advmod	_	_
+10	아이들이	_	NOUN	NOUN	_	12	nsubj	_	_
+11	설사를	_	NOUN	NOUN	_	12	dobj	_	_
+12	합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	아파트	_	NOUN	NOUN	_	3	adpobj	_	_
+2	바로	_	ADV	ADV	_	3	advmod	_	_
+3	앞에	_	ADP	ADP	_	5	adpmod	_	_
+4	학교가	_	NOUN	NOUN	_	5	nsubj	_	_
+5	있어서	_	VERB	PREDCONJ	_	7	advcl	_	_
+6	마음에	_	NOUN	NOUN	_	7	advmod	_	_
+7	드네요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	저는	_	PRON	PRON	_	4	nsubj	_	_
+2	시원한	_	ADJ	ADJ	_	3	amod	_	_
+3	해산물이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	생각나면	_	VERB	PREDCONJ	_	6	advcl	_	_
+5	자주	_	ADV	ADV	_	6	advmod	_	_
+6	가는데	_	VERB	PREDCONJ	_	7	advcl	_	_
+7	후회없습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	주문하면	_	VERB	PREDCONJ	_	5	advcl	_	_
+2	그	_	DET	DET	_	3	det	_	_
+3	때	_	NOUN	NOUN	_	4	nmod	_	_
+4	요리해서	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	배달해주시더군요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	5살	_	NOUN	NUMNOUN	_	3	compmod	_	_
+2	울	_	PRON	PRON	_	3	poss	_	_
+3	아들	_	NOUN	NOUN	_	5	nsubj	_	_
+4	양념고기만	_	NOUN	NOUN	_	5	dobj	_	_
+5	먹는데	_	VERB	PREDCONJ	_	11	advcl	_	_
+6	이	_	DET	DET	_	7	det	_	_
+7	집	_	NOUN	NOUN	_	8	compmod	_	_
+8	삼겹살	_	NOUN	NOUN	_	11	dobj	_	_
+9	완전	_	ADV	ADV	_	10	advmod	_	_
+10	잘	_	ADV	ADV	_	11	advmod	_	_
+11	먹어요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	푸짐한	_	ADJ	ADJ	_	2	amod	_	_
+2	음식과	_	NOUN	NOMCONJ	_	3	conj	_	_
+3	밑반찬이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	많고	_	VERB	PREDCONJ	_	10	conj	_	_
+5	,	_	.	.	_	4	p	_	_
+6	시설이	_	NOUN	NOUN	_	7	nsubj	_	_
+7	청결하고	_	VERB	PREDCONJ	_	10	conj	_	_
+8	사장님이	_	NOUN	NOUN	_	10	nsubj	_	_
+9	인심이	_	NOUN	NOUN	_	10	nsubj	_	_
+10	넓다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	간호사	_	NOUN	NOUN	_	2	compmod	_	_
+2	언니들도	_	NOUN	NOUN	_	3	nsubj	_	_
+3	친절하고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	의사선생님	_	NOUN	NOUN	_	5	compmod	_	_
+5	솜씨도	_	NOUN	NOUN	_	6	nsubj	_	_
+6	좋아서	_	VERB	PREDCONJ	_	9	advcl	_	_
+7	무사히	_	ADV	ADV	_	9	advmod	_	_
+8	진료를	_	NOUN	NOUN	_	9	dobj	_	_
+9	마쳤습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	돼지	_	NOUN	NOUN	_	2	compmod	_	_
+2	냄새가	_	NOUN	NOUN	_	4	nsubj	_	_
+3	전혀	_	ADV	ADV	_	5	advmod	_	_
+4	나지	_	VERB	PREDCX	_	5	compmod	_	_
+5	않고	_	VERB	PREDCONJ	_	9	conj	_	_
+6	국물	_	NOUN	NOUN	_	7	compmod	_	_
+7	맛이	_	NOUN	NOUN	_	9	nsubj	_	_
+8	아주	_	ADV	ADV	_	9	advmod	_	_
+9	진하다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	노래	_	NOUN	NOUN	_	2	compmod	_	_
+2	소리를	_	NOUN	NOUN	_	5	dobj	_	_
+3	넘	_	ADV	ADV	_	4	advmod	_	_
+4	크게	_	ADV	ADV	_	5	advmod	_	_
+5	틀어서	_	VERB	PREDCONJ	_	6	advcl	_	_
+6	시끄러워요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	언덕	_	NOUN	NOUN	_	2	adpobj	_	_
+2	위에	_	ADP	ADP	_	3	adpmod	_	_
+3	있는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	펜션이라	_	VERB	PREDCONJ	_	6	advcl	_	_
+5	경치도	_	NOUN	NOUN	_	6	nsubj	_	_
+6	그만이지만	_	VERB	PREDCONJ	_	16	advcl	_	_
+7	,	_	.	.	_	6	p	_	_
+8	특히	_	ADV	ADV	_	16	advmod	_	_
+9	그	_	PRON	PRON	_	10	adpobj	_	_
+10	아래에	_	ADP	ADP	_	11	adpmod	_	_
+11	있는	_	VERB	PREDREL	_	12	rcmod	_	_
+12	수입천에서의	_	NOUN	PNOUN	_	13	poss	_	_
+13	시간을	_	NOUN	NOUN	_	14	dobj	_	_
+14	잊을	_	VERB	PREDREL	_	15	dep	_	_
+15	수가	_	NOUN	NOUN	_	16	nsubj	_	_
+16	없습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	차량	_	NOUN	NOUN	_	2	compmod	_	_
+2	주차	_	NOUN	NOUN	_	3	dobj	_	_
+3	안내하시는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	분들이나	_	NOUN	NOMCONJ	_	10	conj	_	_
+5	입구에서	_	ADV	ADV	_	8	advmod	_	_
+6	대기	_	NOUN	NOUN	_	7	compmod	_	_
+7	손님을	_	NOUN	NOUN	_	8	dobj	_	_
+8	안내하는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	직원이나	_	NOUN	NOMCONJ	_	10	conj	_	_
+10	모두	_	NOUN	NOUN	_	11	nsubj	_	_
+11	친절합니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	원장선생님이	_	NOUN	NOUN	_	6	nsubj	_	_
+2	아주	_	ADV	ADV	_	3	advmod	_	_
+3	재미있게	_	ADV	ADV	_	6	advmod	_	_
+4	설명을	_	NOUN	NOUN	_	6	dobj	_	_
+5	잘	_	ADV	ADV	_	6	advmod	_	_
+6	해주세요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	식사하기에도	_	ADV	ADV	_	2	advmod	_	_
+2	좋고	_	VERB	PREDCONJ	_	5	conj	_	_
+3	커피	_	NOUN	NOUN	_	4	dobj	_	_
+4	마시기에도	_	ADV	ADV	_	5	advmod	_	_
+5	좋아요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	저희	_	PRON	PRON	_	2	poss	_	_
+2	어머니께서	_	NOUN	NOUN	_	3	nsubj	_	_
+3	편찮으셔서	_	VERB	PREDCONJ	_	5	advcl	_	_
+4	입원을	_	NOUN	NOUN	_	5	dobj	_	_
+5	하셨었는데	_	VERB	PREDCONJ	_	11	advcl	_	_
+6	간호사	_	NOUN	NOUN	_	7	compmod	_	_
+7	분들과	_	NOUN	NOMCONJ	_	10	conj	_	_
+8	의사	_	NOUN	NOUN	_	9	compmod	_	_
+9	선생님	_	NOUN	NOUN	_	10	compmod	_	_
+10	모두가	_	NOUN	NOUN	_	11	nsubj	_	_
+11	친절하셨어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	아침	_	NOUN	NOUN	_	4	nmod	_	_
+2	일찍	_	ADV	ADV	_	4	advmod	_	_
+3	리옹으로	_	ADV	ADV	_	4	advmod	_	_
+4	떠나기	_	NOUN	NOUN	_	5	dobj	_	_
+5	위해	_	VERB	PREDCONJ	_	6	advcl	_	_
+6	묵었던	_	VERB	PREDREL	_	10	rcmod	_	_
+7	히드로	_	NOUN	PNOUN	_	8	compmod	_	_
+8	공항	_	NOUN	NOUN	_	9	adpobj	_	_
+9	옆	_	ADP	ADP	_	10	adpmod	_	_
+10	호텔.	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	아이들도	_	NOUN	NOUN	_	6	nsubj	_	_
+2	사회	_	NOUN	NOUN	_	3	compmod	_	_
+3	교과서에	_	ADV	ADV	_	4	advmod	_	_
+4	나오는	_	VERB	PREDREL	_	5	rcmod	_	_
+5	물건을	_	NOUN	NOUN	_	6	dobj	_	_
+6	보며	_	VERB	PREDCONJ	_	9	advcl	_	_
+7	직접	_	ADV	ADV	_	9	advmod	_	_
+8	체험도	_	NOUN	NOUN	_	9	dobj	_	_
+9	하고	_	VERB	PREDCONJ	_	11	conj	_	_
+10	재미나게	_	ADV	ADV	_	11	advmod	_	_
+11	놀	_	VERB	PREDREL	_	12	dep	_	_
+12	수	_	NOUN	NOUN	_	13	nsubj	_	_
+13	있는	_	VERB	PREDREL	_	14	rcmod	_	_
+14	곳입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	유곡동으로	_	ADV	ADV	_	2	advmod	_	_
+2	이사온	_	VERB	PREDREL	_	10	advcl	_	_
+3	후	_	NOUN	NOUN	_	2	mark	_	_
+4	맛난	_	ADJ	ADJ	_	5	amod	_	_
+5	치킨집을	_	NOUN	NOUN	_	6	dobj	_	_
+6	찾는데	_	VERB	PREDCONJ	_	10	advcl	_	_
+7	제법	_	ADV	ADV	_	8	advmod	_	_
+8	많은	_	ADJ	ADJ	_	9	amod	_	_
+9	시간이	_	NOUN	NOUN	_	10	nsubjpass	_	_
+10	걸렸습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	소주와	_	NOUN	NOMCONJ	_	2	conj	_	_
+2	정종만	_	NOUN	NOUN	_	3	dobj	_	_
+3	팔고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	막걸리는	_	NOUN	NOUN	_	5	dobj	_	_
+5	팔지	_	VERB	PREDCX	_	6	compmod	_	_
+6	않는다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	오산교회는	_	NOUN	PNOUN	_	6	nsubj	_	_
+2	시골의	_	NOUN	NOUN	_	3	poss	_	_
+3	마을에서	_	ADV	ADV	_	6	advmod	_	_
+4	역사가	_	NOUN	NOUN	_	5	nsubj	_	_
+5	오래도록	_	ADV	ADV	_	6	advmod	_	_
+6	존재하고	_	VERB	PREDCX	_	7	compmod	_	_
+7	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	안동찜닭이	_	NOUN	PNOUN	_	3	nsubj	_	_
+2	한창	_	ADV	ADV	_	3	advmod	_	_
+3	유행일	_	VERB	PREDREL	_	6	advcl	_	_
+4	때부터	_	ADV	ADV	_	3	mark	_	_
+5	현재까지	_	ADV	ADV	_	6	advmod	_	_
+6	인기있는	_	VERB	PREDREL	_	7	rcmod	_	_
+7	집	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	무슨	_	DET	DET	_	2	det	_	_
+2	이유가	_	NOUN	NOUN	_	3	nsubj	_	_
+3	있을까요?	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	맛있는	_	ADJ	ADJ	_	2	amod	_	_
+2	피자집을	_	NOUN	NOUN	_	3	dobj	_	_
+3	발견했네요!	_	VERB	VERB	_	0	ROOT	_	_
+
+1	필요하시다면	_	VERB	PREDCONJ	_	7	advcl	_	_
+2	방문	_	NOUN	NOUN	_	3	compmod	_	_
+3	수리	_	NOUN	NOUN	_	6	conj	_	_
+4	및	_	CONJ	CONJ	_	6	cc	_	_
+5	방문	_	NOUN	NOUN	_	6	compmod	_	_
+6	설치가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	가능합니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	하나로	_	NOUN	PNOUN	_	4	compmod	_	_
+2	의료	_	NOUN	NOUN	_	4	compmod	_	_
+3	재단	_	NOUN	NOUN	_	4	compmod	_	_
+4	대표	_	NOUN	NOUN	_	5	compmod	_	_
+5	번호가	_	NOUN	NOUN	_	6	nsubjpass	_	_
+6	변경되었다고	_	VERB	PREDCOMP	_	7	ccomp	_	_
+7	합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	곤지암	_	ADV	ADV	_	2	advmod	_	_
+2	사는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	사람들은	_	NOUN	NOUN	_	6	nsubj	_	_
+4	여기	_	PRON	PRON	_	6	advmod	_	_
+5	많이	_	ADV	ADV	_	6	advmod	_	_
+6	가지요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	옆에	_	ADV	ADV	_	2	advmod	_	_
+2	있는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	대원식당	_	NOUN	PNOUN	_	6	nsubj	_	_
+4	돈	_	NOUN	NOUN	_	6	dobj	_	_
+5	좀	_	ADV	ADV	_	6	advmod	_	_
+6	번	_	VERB	PREDREL	_	7	dep	_	_
+7	것	_	NOUN	NOUN	_	8	nsubj	_	_
+8	같아요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	정자	_	NOUN	NOUN	_	3	compmod	_	_
+2	활동성	_	NOUN	NOUN	_	3	compmod	_	_
+3	검사를	_	NOUN	NOUN	_	4	dobj	_	_
+4	받고	_	VERB	PREDCONJ	_	8	conj	_	_
+5	전화로	_	ADV	ADV	_	8	advmod	_	_
+6	결과	_	NOUN	NOUN	_	7	compmod	_	_
+7	통보를	_	NOUN	NOUN	_	8	dobj	_	_
+8	받았습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	한	_	NUM	NUM	_	2	num	_	_
+2	아이의	_	NOUN	NOUN	_	3	poss	_	_
+3	학부모로서	_	ADV	ADV	_	4	advmod	_	_
+4	볼	_	VERB	PREDREL	_	8	advcl	_	_
+5	때	_	NOUN	NOUN	_	4	mark	_	_
+6	선생님들이	_	NOUN	NOUN	_	8	nsubj	_	_
+7	너무	_	ADV	ADV	_	8	advmod	_	_
+8	좋으세요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	처음	_	NOUN	NOUN	_	2	advmod	_	_
+2	갔을	_	VERB	PREDREL	_	7	advcl	_	_
+3	때	_	NOUN	NOUN	_	2	mark	_	_
+4	골동품	_	NOUN	NOUN	_	5	nsubj	_	_
+5	같은	_	VERB	PREDREL	_	6	dep	_	_
+6	걸	_	NOUN	NOUN	_	7	dobj	_	_
+7	보고	_	VERB	PREDCONJ	_	9	conj	_	_
+8	넘	_	ADV	ADV	_	9	advmod	_	_
+9	신비로웠고	_	VERB	PREDCONJ	_	12	conj	_	_
+10	차	_	NOUN	NOUN	_	11	compmod	_	_
+11	맛도	_	NOUN	NOUN	_	12	nsubj	_	_
+12	환상적이었다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	자주	_	ADV	ADV	_	3	advmod	_	_
+2	배달시켜	_	VERB	PREDCONJ	_	3	advcl	_	_
+3	먹는데	_	VERB	PREDCONJ	_	8	advcl	_	_
+4	서비스로	_	ADV	ADV	_	5	advmod	_	_
+5	오는	_	VERB	PREDREL	_	6	rcmod	_	_
+6	제육볶음도	_	NOUN	NOUN	_	7	nsubj	_	_
+7	맛있고	_	VERB	PREDCONJ	_	8	conj	_	_
+8	괜찮습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	요양	_	NOUN	NOUN	_	2	compmod	_	_
+2	병원	_	ADV	ADV	_	3	advmod	_	_
+3	가실라면	_	VERB	PREDCONJ	_	7	advcl	_	_
+4	영인면의	_	NOUN	PNOUN	_	6	poss	_	_
+5	상성	_	NOUN	PNOUN	_	6	compmod	_	_
+6	요양병원으로	_	ADV	ADV	_	7	advmod	_	_
+7	가세요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	정월	_	NOUN	NOUN	_	2	compmod	_	_
+2	대보름	_	NOUN	NOUN	_	3	compmod	_	_
+3	전날	_	NOUN	NOUN	_	10	nmod	_	_
+4	아라인천터미널에서	_	ADV	ADV	_	10	advmod	_	_
+5	축제를	_	NOUN	NOUN	_	7	dobj	_	_
+6	다	_	ADV	ADV	_	7	advmod	_	_
+7	하고	_	VERB	PREDCONJ	_	10	conj	_	_
+8	피자도	_	NOUN	NOUN	_	10	dobj	_	_
+9	맛있게	_	ADV	ADV	_	10	advmod	_	_
+10	먹었다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	여기	_	PRON	PRON	_	3	advmod	_	_
+2	모든	_	DET	DET	_	3	det	_	_
+3	반찬은	_	NOUN	NOUN	_	5	dobj	_	_
+4	직접	_	ADV	ADV	_	5	advmod	_	_
+5	만든신다고	_	VERB	PREDCOMP	_	6	ccomp	_	_
+6	하더라구요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	송어가	_	NOUN	NOUN	_	2	nsubj	_	_
+2	싱싱하고	_	VERB	PREDCONJ	_	11	conj	_	_
+3	,	_	.	.	_	2	p	_	_
+4	함께	_	ADV	ADV	_	5	advmod	_	_
+5	비비는	_	VERB	PREDREL	_	9	rcmod	_	_
+6	양념이랑	_	NOUN	NOMCONJ	_	9	conj	_	_
+7	야채	_	NOUN	NOUN	_	9	conj	_	_
+8	,	_	.	.	_	7	p	_	_
+9	콩가루들이	_	NOUN	NOUN	_	11	nsubj	_	_
+10	신선하고	_	VERB	PREDCONJ	_	11	conj	_	_
+11	깔끔해요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	폭포가	_	NOUN	NOUN	_	3	nsubjpass	_	_
+2	바로	_	ADV	ADV	_	3	advmod	_	_
+3	보이는	_	VERB	PREDREL	_	5	rcmod	_	_
+4	아늑한	_	ADJ	ADJ	_	5	amod	_	_
+5	방에서	_	ADV	ADV	_	7	advmod	_	_
+6	오리불고기를	_	NOUN	NOUN	_	7	dobj	_	_
+7	먹었는데	_	VERB	PREDCONJ	_	12	advcl	_	_
+8	양도	_	NOUN	NOUN	_	9	nsubj	_	_
+9	많고	_	VERB	PREDCONJ	_	11	conj	_	_
+10	밑반찬도	_	NOUN	NOUN	_	11	nsubj	_	_
+11	다양해서	_	VERB	PREDCONJ	_	12	advcl	_	_
+12	좋았어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	커피도	_	NOUN	NOUN	_	2	nsubj	_	_
+2	맛있고	_	VERB	PREDCONJ	_	5	conj	_	_
+3	분위기도	_	NOUN	NOUN	_	4	nsubj	_	_
+4	아늑하고	_	VERB	PREDCONJ	_	5	conj	_	_
+5	친절해요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	6	advmod	_	_
+2	사람들이	_	NOUN	NOUN	_	4	nsubj	_	_
+3	많이	_	ADV	ADV	_	4	advmod	_	_
+4	붐비는	_	VERB	PREDREL	_	5	dep	_	_
+5	시간에	_	ADV	ADV	_	6	advmod	_	_
+6	가신다면	_	VERB	PREDCONJ	_	17	advcl	_	_
+7	음식을	_	NOUN	NOUN	_	8	dobj	_	_
+8	먹으며	_	VERB	PREDCONJ	_	9	advcl	_	_
+9	지불하는	_	VERB	PREDREL	_	10	rcmod	_	_
+10	돈에	_	ADV	ADV	_	11	advmod	_	_
+11	대한	_	VERB	PREDREL	_	14	rcmod	_	_
+12	제대로	_	ADV	ADV	_	13	advmod	_	_
+13	된	_	VERB	PREDREL	_	14	rcmod	_	_
+14	서비스를	_	NOUN	NOUN	_	15	dobj	_	_
+15	받지	_	VERB	PREDCX	_	16	compmod	_	_
+16	못할	_	VERB	PREDREL	_	17	dep	_	_
+17	것입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	뉴욕뉴욕은	_	NOUN	PNOUN	_	6	nsubj	_	_
+2	다른	_	ADJ	ADJ	_	4	amod	_	_
+3	패밀리	_	NOUN	NOUN	_	4	compmod	_	_
+4	레스토랑과는	_	ADV	ADV	_	6	advmod	_	_
+5	좀	_	ADV	ADV	_	6	advmod	_	_
+6	다르다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	지하	_	NOUN	NOUN	_	4	compmod	_	_
+2	흡연	_	NOUN	NOUN	_	4	compmod	_	_
+3	미팅	_	NOUN	NOUN	_	4	compmod	_	_
+4	룸에	_	ADV	ADV	_	7	advmod	_	_
+5	티비	_	NOUN	NOUN	_	6	compmod	_	_
+6	화질	_	NOUN	NOUN	_	7	nsubj	_	_
+7	안좋아서	_	VERB	PREDCONJ	_	9	advcl	_	_
+8	보이질	_	VERB	PREDCX	_	9	compmod	_	_
+9	않는데	_	VERB	PREDCONJ	_	11	advcl	_	_
+10	교체	_	NOUN	NOUN	_	11	dobj	_	_
+11	부탁해요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	저는	_	PRON	PRON	_	8	nsubj	_	_
+2	손님	_	NOUN	NOUN	_	3	nsubj	_	_
+3	몰리는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	시간	_	NOUN	NOUN	_	5	dobj	_	_
+5	피해서	_	VERB	PREDCONJ	_	8	advcl	_	_
+6	아침	_	NOUN	NOUN	_	7	compmod	_	_
+7	열시반쯤에	_	ADV	ADV	_	8	advmod	_	_
+8	갔습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	주인장이	_	NOUN	NOUN	_	4	nsubj	_	_
+2	직접	_	ADV	ADV	_	4	advmod	_	_
+3	고추	_	NOUN	NOUN	_	4	dobj	_	_
+4	말려	_	VERB	PREDCONJ	_	6	advcl	_	_
+5	김치를	_	NOUN	NOUN	_	6	dobj	_	_
+6	하기	_	NOUN	NOUN	_	7	adpobj	_	_
+7	때문에	_	ADP	ADP	_	10	adpmod	_	_
+8	안심하고	_	VERB	PREDCONJ	_	9	conj	_	_
+9	드셔도	_	VERB	PREDCONJ	_	10	advcl	_	_
+10	좋습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	내부	_	NOUN	NOUN	_	2	compmod	_	_
+2	수리를	_	NOUN	NOUN	_	3	dobj	_	_
+3	해서	_	VERB	PREDCONJ	_	6	advcl	_	_
+4	예전보다	_	ADV	ADV	_	6	advmod	_	_
+5	많이	_	ADV	ADV	_	6	advmod	_	_
+6	깨끗해진	_	VERB	PREDREL	_	7	dep	_	_
+7	거	_	NOUN	NOUN	_	8	nsubj	_	_
+8	같아요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	점심때	_	NOUN	NOUN	_	2	nmod	_	_
+2	나오는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	장어탕	_	NOUN	NOUN	_	5	nsubj	_	_
+4	정말	_	ADV	ADV	_	5	advmod	_	_
+5	맛있어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	배달	_	NOUN	NOUN	_	2	nsubj	_	_
+2	전문이어서	_	VERB	PREDCONJ	_	4	advcl	_	_
+3	가게는	_	NOUN	NOUN	_	4	nsubj	_	_
+4	작지만	_	VERB	PREDCONJ	_	6	conj	_	_
+5	맛만은	_	NOUN	NOUN	_	6	nsubj	_	_
+6	일품이에요.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	신축	_	NOUN	NOUN	_	2	compmod	_	_
+2	건물로	_	ADV	ADV	_	5	advmod	_	_
+3	내부	_	NOUN	NOUN	_	4	compmod	_	_
+4	환경이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	쾌적하고	_	VERB	PREDCONJ	_	9	conj	_	_
+6	맛있는	_	ADJ	ADJ	_	7	amod	_	_
+7	음식에	_	ADV	ADV	_	9	advmod	_	_
+8	가격도	_	NOUN	NOUN	_	9	nsubj	_	_
+9	저렴한	_	VERB	PREDREL	_	10	dep	_	_
+10	것	_	NOUN	NOUN	_	11	nsubj	_	_
+11	같아요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	입에서	_	ADV	ADV	_	3	advmod	_	_
+2	살살	_	ADV	ADV	_	3	advmod	_	_
+3	녹는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	고기를	_	NOUN	NOUN	_	5	dobj	_	_
+5	먹으면서	_	VERB	PREDCONJ	_	8	advcl	_	_
+6	바다	_	NOUN	NOUN	_	7	compmod	_	_
+7	전망도	_	NOUN	NOUN	_	8	dobj	_	_
+8	보고	_	VERB	PREDCONJ	_	10	conj	_	_
+9	참	_	ADV	ADV	_	10	advmod	_	_
+10	괜찮았어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	전직	_	NOUN	NOUN	_	2	compmod	_	_
+2	대통령이	_	NOUN	NOUN	_	3	nsubj	_	_
+3	다녀간	_	VERB	PREDREL	_	4	rcmod	_	_
+4	곳으로	_	ADV	ADV	_	5	advmod	_	_
+5	유명한	_	VERB	PREDREL	_	6	rcmod	_	_
+6	곳.	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	안내	_	NOUN	NOUN	_	2	compmod	_	_
+2	데스크에	_	ADV	ADV	_	3	advmod	_	_
+3	계신	_	VERB	PREDREL	_	4	rcmod	_	_
+4	분이나	_	NOUN	NOMCONJ	_	6	conj	_	_
+5	검안해주신	_	VERB	PREDREL	_	6	rcmod	_	_
+6	분은	_	NOUN	NOUN	_	8	nsubj	_	_
+7	너무나	_	ADV	ADV	_	8	advmod	_	_
+8	친절했습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	롯데마트	_	NOUN	PNOUN	_	2	adpobj	_	_
+2	안에	_	ADP	ADP	_	3	adpmod	_	_
+3	있는데	_	VERB	PREDCONJ	_	6	advcl	_	_
+4	지리적으로	_	ADV	ADV	_	6	advmod	_	_
+5	너무	_	ADV	ADV	_	6	advmod	_	_
+6	멀다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	강사로서	_	ADV	ADV	_	9	advmod	_	_
+2	원장선생님께	_	ADV	ADV	_	9	advmod	_	_
+3	교육철학과	_	NOUN	NOMCONJ	_	6	conj	_	_
+4	사람을	_	NOUN	NOUN	_	5	dobj	_	_
+5	대하는	_	VERB	PREDREL	_	6	rcmod	_	_
+6	태도를	_	NOUN	NOUN	_	9	dobj	_	_
+7	정말	_	ADV	ADV	_	8	advmod	_	_
+8	많이	_	ADV	ADV	_	9	advmod	_	_
+9	배웠습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	하나님의	_	NOUN	NOUN	_	2	poss	_	_
+2	은혜가	_	NOUN	NOUN	_	3	nsubj	_	_
+3	충만하며	_	VERB	PREDCONJ	_	10	conj	_	_
+4	모두가	_	NOUN	NOUN	_	10	nsubj	_	_
+5	주님의	_	NOUN	NOUN	_	6	poss	_	_
+6	사랑	_	NOUN	NOUN	_	7	adpobj	_	_
+7	안에서	_	ADP	ADP	_	10	adpmod	_	_
+8	참된	_	ADJ	ADJ	_	9	amod	_	_
+9	행복을	_	NOUN	NOUN	_	10	dobj	_	_
+10	느끼는	_	VERB	PREDREL	_	11	rcmod	_	_
+11	교회입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	혜천대학교는	_	NOUN	PNOUN	_	6	nsubj	_	_
+2	71년의	_	NOUN	NUMNOUN	_	3	poss	_	_
+3	역사를	_	NOUN	NOUN	_	4	dobj	_	_
+4	가진	_	VERB	PREDREL	_	6	rcmod	_	_
+5	전통있는	_	ADJ	ADJ	_	6	amod	_	_
+6	대학입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	신선한	_	ADJ	ADJ	_	3	amod	_	_
+2	회와	_	NOUN	NOMCONJ	_	3	conj	_	_
+3	야채를	_	NOUN	NOUN	_	6	dobj	_	_
+4	매콤한	_	ADJ	ADJ	_	5	amod	_	_
+5	소스와	_	ADV	ADV	_	6	advmod	_	_
+6	비벼먹으면	_	VERB	PREDCONJ	_	8	advcl	_	_
+7	정말	_	ADV	ADV	_	8	advmod	_	_
+8	맛있어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	6	advmod	_	_
+2	저는	_	PRON	PRON	_	6	nsubj	_	_
+3	떡볶이랑	_	NOUN	NOMCONJ	_	4	conj	_	_
+4	회오리감자를	_	NOUN	NOUN	_	6	dobj	_	_
+5	자주	_	ADV	ADV	_	6	advmod	_	_
+6	사먹습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	뒷산에	_	ADV	ADV	_	3	advmod	_	_
+2	인후공원이	_	NOUN	PNOUN	_	3	nsubj	_	_
+3	있어서	_	VERB	PREDCONJ	_	7	advcl	_	_
+4	운동이나	_	NOUN	NOMCONJ	_	5	conj	_	_
+5	산책에	_	ADV	ADV	_	7	advmod	_	_
+6	매우	_	ADV	ADV	_	7	advmod	_	_
+7	좋다	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	점원이	_	NOUN	NOUN	_	2	nsubj	_	_
+2	친절하고	_	VERB	PREDCONJ	_	5	conj	_	_
+3	옷은	_	NOUN	NOUN	_	5	nsubj	_	_
+4	매우	_	ADV	ADV	_	5	advmod	_	_
+5	고급스럽습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	저희	_	PRON	PRON	_	2	poss	_	_
+2	업체는	_	NOUN	NOUN	_	32	nsubj	_	_
+3	생활	_	NOUN	NOUN	_	9	conj	_	_
+4	,	_	.	.	_	3	p	_	_
+5	사업장	_	NOUN	NOUN	_	7	compmod	_	_
+6	각종	_	NOUN	NOUN	_	7	compmod	_	_
+7	쓰레기	_	NOUN	NOUN	_	9	conj	_	_
+8	,	_	.	.	_	7	p	_	_
+9	폐기물을	_	NOUN	NOUN	_	15	dobj	_	_
+10	전문으로	_	ADV	ADV	_	15	advmod	_	_
+11	처리	_	NOUN	NOUN	_	15	conj	_	_
+12	,	_	.	.	_	11	p	_	_
+13	수거	_	NOUN	NOUN	_	15	conj	_	_
+14	,	_	.	.	_	13	p	_	_
+15	운반하는	_	VERB	PREDREL	_	16	rcmod	_	_
+16	업체로써	_	ADV	ADV	_	32	advmod	_	_
+17	깨끗한	_	ADJ	ADJ	_	18	amod	_	_
+18	환경	_	NOUN	NOUN	_	22	conj	_	_
+19	,	_	.	.	_	18	p	_	_
+20	신속하고	_	VERB	PREDCONJ	_	21	conj	_	_
+21	정확한	_	ADJ	ADJ	_	22	amod	_	_
+22	서비스를	_	NOUN	NOUN	_	23	dobj	_	_
+23	통한	_	VERB	PREDREL	_	25	dep	_	_
+24	고객	_	NOUN	NOUN	_	25	compmod	_	_
+25	만족을	_	NOUN	NOUN	_	26	dobj	_	_
+26	신조로	_	ADV	ADV	_	32	advmod	_	_
+27	고객님들을	_	NOUN	NOUN	_	28	dobj	_	_
+28	위해	_	VERB	PREDCONJ	_	32	advcl	_	_
+29	최선의	_	NOUN	NOUN	_	30	poss	_	_
+30	노력을	_	NOUN	NOUN	_	31	dobj	_	_
+31	다해	_	VERB	PREDCONJ	_	32	advcl	_	_
+32	일하고	_	VERB	PREDCX	_	33	compmod	_	_
+33	있습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	서울	_	NOUN	PNOUN	_	2	compmod	_	_
+2	동쪽에서	_	ADV	ADV	_	5	advmod	_	_
+3	춘천고속도로를	_	NOUN	PNOUN	_	5	dobj	_	_
+4	일부	_	NOUN	NOUN	_	5	advmod	_	_
+5	이용하면	_	VERB	PREDCONJ	_	10	advcl	_	_
+6	한	_	NUM	NUM	_	7	num	_	_
+7	시간	_	NOUN	NOUN	_	8	adpobj	_	_
+8	정도에	_	ADP	ADP	_	10	adpmod	_	_
+9	선착장까지	_	ADV	ADV	_	10	advmod	_	_
+10	갈	_	VERB	PREDREL	_	11	dep	_	_
+11	수	_	NOUN	NOUN	_	12	nsubj	_	_
+12	있습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	회사에서	_	ADV	ADV	_	2	advmod	_	_
+2	3미터이지만	_	VERB	PREDCONJ	_	8	advcl	_	_
+3	저는	_	PRON	PRON	_	7	nsubj	_	_
+4	절대	_	ADV	ADV	_	7	advmod	_	_
+5	이	_	DET	DET	_	6	det	_	_
+6	곳에	_	ADV	ADV	_	7	advmod	_	_
+7	입차하지	_	VERB	PREDCX	_	8	compmod	_	_
+8	않습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	저는	_	PRON	PRON	_	3	nsubj	_	_
+2	서동에	_	ADV	ADV	_	3	advmod	_	_
+3	거주하지는	_	VERB	PREDCX	_	4	compmod	_	_
+4	않지만	_	VERB	PREDCONJ	_	7	advcl	_	_
+5	업무차	_	ADV	ADV	_	7	advmod	_	_
+6	자주	_	ADV	ADV	_	7	advmod	_	_
+7	방문합니다	_	VERB	VERB	_	0	ROOT	_	_
+
+1	고기	_	NOUN	NOUN	_	2	dobj	_	_
+2	드시러	_	VERB	PREDCONJ	_	3	advcl	_	_
+3	간다면	_	VERB	PREDCONJ	_	6	advcl	_	_
+4	실망스러울	_	VERB	PREDREL	_	5	dep	_	_
+5	수	_	NOUN	NOUN	_	6	nsubj	_	_
+6	있지만	_	VERB	PREDCONJ	_	9	advcl	_	_
+7	야채쌈과	_	NOUN	NOMCONJ	_	8	conj	_	_
+8	해물뚝배기는	_	NOUN	NOUN	_	9	nsubj	_	_
+9	좋습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	저의	_	PRON	PRON	_	3	poss	_	_
+2	운전	_	NOUN	NOUN	_	3	compmod	_	_
+3	실력이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	미숙하지만	_	VERB	PREDCONJ	_	9	advcl	_	_
+5	잘	_	ADV	ADV	_	6	advmod	_	_
+6	알려주신	_	VERB	PREDREL	_	9	advcl	_	_
+7	덕분에	_	ADV	ADV	_	6	mark	_	_
+8	1종	_	NOUN	NUMNOUN	_	9	dobj	_	_
+9	땄습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	매장에	_	ADV	ADV	_	2	advmod	_	_
+2	들어가면	_	VERB	PREDCONJ	_	7	advcl	_	_
+3	그	_	DET	DET	_	4	det	_	_
+4	판매자의	_	NOUN	NOUN	_	5	poss	_	_
+5	태도를	_	NOUN	NOUN	_	6	dobj	_	_
+6	보고	_	VERB	PREDCONJ	_	7	conj	_	_
+7	구매하는데	_	VERB	PREDCONJ	_	13	advcl	_	_
+8	,	_	.	.	_	7	p	_	_
+9	이곳의	_	NOUN	NOUN	_	10	poss	_	_
+10	알바생의	_	NOUN	NOUN	_	11	poss	_	_
+11	태도는	_	NOUN	NOUN	_	13	nsubj	_	_
+12	참	_	ADV	ADV	_	13	advmod	_	_
+13	가관이었습니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	오픈코리아는	_	NOUN	PNOUN	_	3	nsubj	_	_
+2	2001년	_	NOUN	NUMNOUN	_	3	nmod	_	_
+3	창업하여	_	VERB	PREDCONJ	_	9	advcl	_	_
+4	지금까지	_	ADV	ADV	_	9	advmod	_	_
+5	수없이	_	ADV	ADV	_	6	advmod	_	_
+6	많은	_	ADJ	ADJ	_	7	amod	_	_
+7	프로젝트를	_	NOUN	NOUN	_	9	dobj	_	_
+8	성공적으로	_	ADV	ADV	_	9	advmod	_	_
+9	수행해왔습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	모든	_	DET	DET	_	2	det	_	_
+2	메뉴를	_	NOUN	NOUN	_	4	dobj	_	_
+3	다	_	ADV	ADV	_	4	advmod	_	_
+4	먹어본	_	VERB	PREDREL	_	5	dep	_	_
+5	건	_	NOUN	NOUN	_	6	nsubj	_	_
+6	아니지만	_	VERB	PREDCONJ	_	10	advcl	_	_
+7	생각보다	_	ADV	ADV	_	8	advmod	_	_
+8	넓으며	_	VERB	PREDCONJ	_	10	conj	_	_
+9	맛도	_	NOUN	NOUN	_	10	nsubj	_	_
+10	좋습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	가까운	_	ADJ	ADJ	_	2	amod	_	_
+2	학교와	_	NOUN	NOMCONJ	_	5	conj	_	_
+3	잘	_	ADV	ADV	_	4	advmod	_	_
+4	조성된	_	VERB	PREDREL	_	5	rcmod	_	_
+5	공원	_	NOUN	NOUN	_	6	adpobj	_	_
+6	때문에	_	ADP	ADP	_	9	adpmod	_	_
+7	이	_	DET	DET	_	8	det	_	_
+8	곳으로	_	ADV	ADV	_	9	advmod	_	_
+9	이사하게	_	VERB	PREDCX	_	10	compmod	_	_
+10	되었습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	학원을	_	NOUN	NOUN	_	2	dobj	_	_
+2	오갈	_	VERB	PREDREL	_	5	advcl	_	_
+3	때	_	NOUN	NOUN	_	2	mark	_	_
+4	태우러	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	오셔서	_	VERB	PREDCONJ	_	7	advcl	_	_
+6	편하게	_	ADV	ADV	_	7	advmod	_	_
+7	다녔습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	고기의	_	NOUN	NOUN	_	2	poss	_	_
+2	육질이	_	NOUN	NOUN	_	3	nsubj	_	_
+3	부드럽고	_	VERB	PREDCONJ	_	5	conj	_	_
+4	국물이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	맛있습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	모든	_	DET	DET	_	2	det	_	_
+2	메뉴가	_	NOUN	NOUN	_	4	nsubj	_	_
+3	싸고	_	VERB	PREDCONJ	_	4	conj	_	_
+4	맛있습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	퓨전레스토랑답게	_	ADV	ADV	_	4	advmod	_	_
+2	메뉴는	_	NOUN	NOUN	_	3	nsubj	_	_
+3	많지	_	VERB	PREDCX	_	4	compmod	_	_
+4	않아도	_	VERB	PREDCONJ	_	12	advcl	_	_
+5	남녀노소	_	NOUN	NOUN	_	6	compmod	_	_
+6	누구나	_	NOUN	NOUN	_	7	nsubj	_	_
+7	즐길	_	VERB	PREDREL	_	8	dep	_	_
+8	수	_	NOUN	NOUN	_	9	nsubj	_	_
+9	있는	_	VERB	PREDREL	_	10	rcmod	_	_
+10	고급요리가	_	NOUN	NOUN	_	12	nsubj	_	_
+11	참	_	ADV	ADV	_	12	advmod	_	_
+12	만족스럽습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	아침이	_	NOUN	NOUN	_	2	nsubj	_	_
+2	되어	_	VERB	PREDCONJ	_	10	advcl	_	_
+3	저와	_	NOUN	NOMCONJ	_	4	conj	_	_
+4	남편의	_	NOUN	NOUN	_	5	poss	_	_
+5	학창시절	_	NOUN	NOUN	_	6	adpobj	_	_
+6	때	_	ADP	ADP	_	8	adpmod	_	_
+7	수학여행을	_	NOUN	NOUN	_	8	dobj	_	_
+8	왔었던	_	VERB	PREDREL	_	9	rcmod	_	_
+9	불국사로	_	ADV	ADV	_	10	advmod	_	_
+10	향하였습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	지상	_	NOUN	NOUN	_	2	compmod	_	_
+2	건물은	_	NOUN	NOUN	_	3	nsubj	_	_
+3	사원	_	NOUN	NOUN	_	6	conj	_	_
+4	,	_	.	.	_	3	p	_	_
+5	지하는	_	NOUN	NOUN	_	6	nsubj	_	_
+6	다원으로	_	ADV	ADV	_	7	advmod	_	_
+7	되어있습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	올라가는	_	VERB	PREDREL	_	2	rcmod	_	_
+2	계단에서도	_	ADV	ADV	_	4	advmod	_	_
+3	고급스러움을	_	NOUN	NOUN	_	4	dobj	_	_
+4	느꼈습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	옥상에	_	ADV	ADV	_	7	advmod	_	_
+2	이쁘장한	_	ADJ	ADJ	_	3	amod	_	_
+3	풀장	_	NOUN	NOUN	_	6	conj	_	_
+4	및	_	CONJ	CONJ	_	6	cc	_	_
+5	간단한	_	ADJ	ADJ	_	6	amod	_	_
+6	운동기구가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	있었습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	예약	_	NOUN	NOUN	_	2	dobj	_	_
+2	못하면	_	VERB	PREDCONJ	_	5	advcl	_	_
+3	거의	_	ADV	ADV	_	5	advmod	_	_
+4	먹기	_	NOUN	NOUN	_	5	nsubj	_	_
+5	힘들고	_	VERB	PREDCONJ	_	7	conj	_	_
+6	서비스	_	NOUN	NOUN	_	7	nsubj	_	_
+7	엉망입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	월곡동	_	NOUN	PNOUN	_	2	compmod	_	_
+2	토박이인	_	VERB	PREDREL	_	3	rcmod	_	_
+3	저는	_	PRON	PRON	_	6	nsubj	_	_
+4	주수사의	_	NOUN	PNOUN	_	5	poss	_	_
+5	변천사를	_	NOUN	NOUN	_	6	dobj	_	_
+6	보았습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	좋은	_	ADJ	ADJ	_	2	amod	_	_
+2	콩으로	_	ADV	ADV	_	4	advmod	_	_
+3	직접	_	ADV	ADV	_	4	advmod	_	_
+4	만든	_	VERB	PREDREL	_	5	rcmod	_	_
+5	두부가	_	NOUN	NOUN	_	8	nsubj	_	_
+6	정말	_	ADV	ADV	_	8	advmod	_	_
+7	고소하고	_	VERB	PREDCONJ	_	8	conj	_	_
+8	부드럽습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	처음에는	_	ADV	ADV	_	2	advmod	_	_
+2	썰렁했는데	_	VERB	PREDCONJ	_	7	advcl	_	_
+3	요즘은	_	NOUN	NOUN	_	7	nmod	_	_
+4	점심	_	NOUN	NOUN	_	5	compmod	_	_
+5	시간에	_	ADV	ADV	_	7	advmod	_	_
+6	손님	_	NOUN	NOUN	_	7	nsubj	_	_
+7	많습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	조미료를	_	NOUN	NOUN	_	2	dobj	_	_
+2	사용하지	_	VERB	PREDCX	_	3	compmod	_	_
+3	않은	_	VERB	PREDREL	_	4	rcmod	_	_
+4	음식들이	_	NOUN	NOUN	_	9	nsubj	_	_
+5	고향집	_	NOUN	NOUN	_	6	compmod	_	_
+6	어머니가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	해주신	_	VERB	PREDREL	_	8	rcmod	_	_
+8	음식처럼	_	ADV	ADV	_	9	advmod	_	_
+9	맛깔스럽습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	파스타를	_	NOUN	NOUN	_	2	dobj	_	_
+2	좋아하시는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	분들에게	_	NOUN	NOUN	_	4	iobj	_	_
+4	추천합니다	_	VERB	VERB	_	0	ROOT	_	_
+
+1	삼화고속	_	NOUN	PNOUN	_	3	dobj	_	_
+2	계산동에서	_	ADV	ADV	_	3	advmod	_	_
+3	승차하면	_	VERB	PREDCONJ	_	7	advcl	_	_
+4	서서	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	갈	_	VERB	PREDREL	_	6	dep	_	_
+6	확률	_	NOUN	NOUN	_	7	nsubj	_	_
+7	높습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	약을	_	NOUN	NOUN	_	2	dobj	_	_
+2	끊으면	_	VERB	PREDCONJ	_	5	advcl	_	_
+3	점점	_	ADV	ADV	_	5	advmod	_	_
+4	증상이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	악화되서	_	VERB	PREDCONJ	_	7	advcl	_	_
+6	무척	_	ADV	ADV	_	7	advmod	_	_
+7	괴로웠습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	처음	_	ADV	ADV	_	3	advmod	_	_
+2	문을	_	NOUN	NOUN	_	3	dobj	_	_
+3	들어서자	_	VERB	PREDCONJ	_	9	advcl	_	_
+4	30대	_	NOUN	NUMNOUN	_	5	compmod	_	_
+5	나이의	_	NOUN	NOUN	_	7	poss	_	_
+6	여	_	NOUN	NOUN	_	7	compmod	_	_
+7	종업원이	_	NOUN	NOUN	_	9	nsubj	_	_
+8	저희를	_	PRON	PRON	_	9	dobj	_	_
+9	맞이했습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	기독교	_	NOUN	NOUN	_	2	compmod	_	_
+2	서적들	_	NOUN	NOUN	_	3	adpobj	_	_
+3	외에	_	ADP	ADP	_	6	adpmod	_	_
+4	각종	_	NOUN	NOUN	_	5	compmod	_	_
+5	물품들도	_	NOUN	NOUN	_	6	nsubj	_	_
+6	있습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	우리	_	PRON	PRON	_	2	poss	_	_
+2	애기	_	NOUN	NOUN	_	3	compmod	_	_
+3	돌잔치로	_	ADV	ADV	_	4	advmod	_	_
+4	인해	_	VERB	PREDCONJ	_	8	advcl	_	_
+5	예약을	_	NOUN	NOUN	_	6	dobj	_	_
+6	하고	_	VERB	PREDCONJ	_	8	conj	_	_
+7	주말에	_	NOUN	NOUN	_	8	nmod	_	_
+8	방문하였습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	목감기	_	NOUN	NOUN	_	2	adpobj	_	_
+2	때문에	_	ADP	ADP	_	3	adpmod	_	_
+3	내원했는데	_	VERB	PREDCONJ	_	12	advcl	_	_
+4	진료실	_	ADV	ADV	_	5	advmod	_	_
+5	들어가니	_	VERB	PREDCONJ	_	12	advcl	_	_
+6	의사	_	NOUN	NOUN	_	7	compmod	_	_
+7	선생님이	_	NOUN	NOUN	_	12	nsubj	_	_
+8	처음에	_	ADV	ADV	_	12	advmod	_	_
+9	반말로	_	ADV	ADV	_	12	advmod	_	_
+10	어디가	_	PRON	PRON	_	11	nsubj	_	_
+11	아프냐고	_	VERB	PREDCOMP	_	12	ccomp	_	_
+12	물어보셨습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	오늘	_	NOUN	NOUN	_	3	nmod	_	_
+2	병원에	_	ADV	ADV	_	3	advmod	_	_
+3	다녀온	_	VERB	PREDREL	_	4	rcmod	_	_
+4	환자입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	오후	_	NOUN	NOUN	_	2	compmod	_	_
+2	10시까지만	_	ADV	ADV	_	4	advmod	_	_
+3	영업을	_	NOUN	NOUN	_	4	dobj	_	_
+4	하기	_	NOUN	NOUN	_	5	adpobj	_	_
+5	때문에	_	ADP	ADP	_	7	adpmod	_	_
+6	일찍	_	ADV	ADV	_	7	advmod	_	_
+7	가야합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	식당을	_	NOUN	NOUN	_	4	dobj	_	_
+2	더	_	ADV	ADV	_	3	advmod	_	_
+3	이쁘게	_	ADV	ADV	_	4	advmod	_	_
+4	꾸미기만	_	NOUN	NOUN	_	5	dobj	_	_
+5	하면	_	VERB	PREDCONJ	_	9	advcl	_	_
+6	돈	_	NOUN	NOUN	_	9	dobj	_	_
+7	더	_	ADV	ADV	_	8	advmod	_	_
+8	잘	_	ADV	ADV	_	9	advmod	_	_
+9	벌	_	VERB	PREDREL	_	10	dep	_	_
+10	수	_	NOUN	NOUN	_	11	nsubj	_	_
+11	있는	_	VERB	PREDREL	_	12	rcmod	_	_
+12	집	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	저희	_	PRON	PRON	_	2	poss	_	_
+2	회사에서	_	ADV	ADV	_	7	advmod	_	_
+3	일주일에	_	ADV	ADV	_	6	advmod	_	_
+4	두	_	NUM	NUM	_	5	num	_	_
+5	번	_	NOUN	NOUN	_	6	adpobj	_	_
+6	이상	_	ADP	ADP	_	7	adpmod	_	_
+7	시켜먹어요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	여기는	_	PRON	PRON	_	6	nsubj	_	_
+2	연예인들도	_	NOUN	NOUN	_	4	nsubj	_	_
+3	자주	_	ADV	ADV	_	4	advmod	_	_
+4	찾는	_	VERB	PREDREL	_	6	rcmod	_	_
+5	유명	_	NOUN	NOUN	_	6	compmod	_	_
+6	맛집입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	고등어조림은	_	NOUN	NOUN	_	3	nsubj	_	_
+2	그냥	_	ADV	ADV	_	3	advmod	_	_
+3	그렇고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	김치찌개가	_	NOUN	NOUN	_	6	nsubj	_	_
+5	더	_	ADV	ADV	_	6	advmod	_	_
+6	맛있어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	자주	_	ADV	ADV	_	2	advmod	_	_
+2	찾는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	대학로에	_	ADV	ADV	_	6	advmod	_	_
+4	얼마	_	NOUN	NOUN	_	5	adpobj	_	_
+5	전에	_	ADP	ADP	_	6	adpmod	_	_
+6	오픈한	_	VERB	PREDREL	_	8	rcmod	_	_
+7	태국	_	NOUN	PNOUN	_	8	compmod	_	_
+8	음식점.	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	약국이	_	NOUN	NOUN	_	2	nsubj	_	_
+2	가깝고	_	VERB	PREDCONJ	_	7	conj	_	_
+3	기다리는	_	VERB	PREDREL	_	4	rcmod	_	_
+4	시간이	_	NOUN	NOUN	_	5	nsubj	_	_
+5	적으며	_	VERB	PREDCONJ	_	7	conj	_	_
+6	간호사분들이	_	NOUN	NOUN	_	7	nsubj	_	_
+7	친절합니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	차를	_	NOUN	NOUN	_	2	dobj	_	_
+2	사면	_	VERB	PREDCONJ	_	6	advcl	_	_
+3	누구나	_	PRON	PRON	_	5	nsubj	_	_
+4	한번쯤	_	ADV	ADV	_	5	advmod	_	_
+5	가게	_	VERB	PREDCX	_	6	compmod	_	_
+6	되는	_	VERB	PREDREL	_	8	rcmod	_	_
+7	드라이브	_	NOUN	NOUN	_	8	compmod	_	_
+8	코스에	_	ADV	ADV	_	9	advmod	_	_
+9	위치한	_	VERB	PREDREL	_	11	rcmod	_	_
+10	운치있는	_	ADJ	ADJ	_	11	amod	_	_
+11	카페.	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	특히	_	ADV	ADV	_	8	advmod	_	_
+2	토요일	_	NOUN	NOUN	_	3	compmod	_	_
+3	저녁에	_	ADV	ADV	_	4	advmod	_	_
+4	해주시는	_	VERB	PREDREL	_	5	rcmod	_	_
+5	불꽃놀이	_	NOUN	NOUN	_	8	nsubj	_	_
+6	정말	_	ADV	ADV	_	8	advmod	_	_
+7	기억에	_	ADV	ADV	_	8	advmod	_	_
+8	남았어요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	닭도리탕	_	NOUN	NOUN	_	4	nsubj	_	_
+2	대전에서	_	ADV	ADV	_	4	advmod	_	_
+3	제일	_	ADV	ADV	_	4	advmod	_	_
+4	맛있는	_	VERB	PREDREL	_	5	rcmod	_	_
+5	집입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	각종	_	NOUN	NOUN	_	3	compmod	_	_
+2	공연	_	NOUN	NOUN	_	3	compmod	_	_
+3	전시를	_	NOUN	NOUN	_	5	dobj	_	_
+4	손쉽게	_	ADV	ADV	_	5	advmod	_	_
+5	접할	_	VERB	PREDREL	_	6	dep	_	_
+6	수	_	NOUN	NOUN	_	7	nsubj	_	_
+7	있는	_	VERB	PREDREL	_	8	rcmod	_	_
+8	곳.	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	몸무게는	_	NOUN	NOUN	_	4	nsubj	_	_
+2	차이가	_	NOUN	NOUN	_	4	nsubj	_	_
+3	많이	_	ADV	ADV	_	4	advmod	_	_
+4	나지	_	VERB	PREDCX	_	5	compmod	_	_
+5	않은데	_	VERB	PREDCONJ	_	9	advcl	_	_
+6	주변에서는	_	ADV	ADV	_	9	advmod	_	_
+7	살	_	NOUN	NOUN	_	8	nsubj	_	_
+8	빠졌냐고	_	VERB	PREDCOMP	_	9	ccomp	_	_
+9	해요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	제가	_	PRON	PRON	_	2	nsubj	_	_
+2	좋아하는	_	VERB	PREDREL	_	3	rcmod	_	_
+3	비스트도	_	NOUN	PNOUN	_	4	dobj	_	_
+4	봤습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	맛도	_	NOUN	NOMCONJ	_	2	conj	_	_
+2	질도	_	NOUN	NOUN	_	3	nsubj	_	_
+3	좋지만	_	VERB	PREDCONJ	_	10	conj	_	_
+4	좁고	_	VERB	PREDCONJ	_	7	conj	_	_
+5	지역주민의	_	NOUN	NOUN	_	6	poss	_	_
+6	선호도가	_	NOUN	NOUN	_	7	nsubj	_	_
+7	높아	_	VERB	PREDCONJ	_	10	advcl	_	_
+8	테이블	_	NOUN	NOUN	_	9	compmod	_	_
+9	잡기가	_	NOUN	NOUN	_	10	nsubj	_	_
+10	힘들다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	제가	_	PRON	PRON	_	3	nsubj	_	_
+2	한국에서	_	ADV	ADV	_	3	advmod	_	_
+3	가본	_	VERB	PREDREL	_	5	rcmod	_	_
+4	태국	_	NOUN	PNOUN	_	5	compmod	_	_
+5	음식점	_	NOUN	NOUN	_	6	adpobj	_	_
+6	중	_	ADP	ADP	_	7	adpmod	_	_
+7	최고입니다!	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	정원엔	_	ADV	ADV	_	3	advmod	_	_
+2	토끼가	_	NOUN	NOUN	_	3	nsubj	_	_
+3	다니고	_	VERB	PREDCONJ	_	6	conj	_	_
+4	이침	_	NOUN	NOUN	_	5	compmod	_	_
+5	식사가	_	NOUN	NOUN	_	6	nsubj	_	_
+6	만족스러운	_	VERB	PREDREL	_	7	rcmod	_	_
+7	호텔입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
+1	사장님이	_	NOUN	NOUN	_	3	nsubj	_	_
+2	직접	_	ADV	ADV	_	3	advmod	_	_
+3	주유한다고	_	VERB	PREDCOMP	_	4	ccomp	_	_
+4	합니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	부산에	_	ADV	ADV	_	2	advmod	_	_
+2	갈	_	VERB	PREDREL	_	5	advcl	_	_
+3	때마다	_	ADV	ADV	_	2	mark	_	_
+4	꼭	_	ADV	ADV	_	5	advmod	_	_
+5	찾게	_	VERB	PREDCX	_	6	compmod	_	_
+6	되는	_	VERB	PREDREL	_	7	rcmod	_	_
+7	집	_	NOUN	NOUN	_	0	ROOT	_	_
+
+1	케익도	_	NOUN	NOUN	_	3	nsubj	_	_
+2	그렇게	_	ADV	ADV	_	3	advmod	_	_
+3	달지	_	VERB	PREDCX	_	4	compmod	_	_
+4	않고	_	VERB	PREDCONJ	_	5	conj	_	_
+5	부드러워요!	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	시내에서	_	ADV	ADV	_	4	advmod	_	_
+2	좀	_	ADV	ADV	_	3	advmod	_	_
+3	멀리	_	ADV	ADV	_	4	advmod	_	_
+4	있어서	_	VERB	PREDCONJ	_	7	advcl	_	_
+5	접근성은	_	NOUN	NOUN	_	7	nsubj	_	_
+6	좀	_	ADV	ADV	_	7	advmod	_	_
+7	떨어지나	_	VERB	PREDCONJ	_	9	advcl	_	_
+8	맛은	_	NOUN	NOUN	_	9	nsubj	_	_
+9	좋습니다.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	그	_	DET	DET	_	2	det	_	_
+2	자리에서	_	ADV	ADV	_	5	advmod	_	_
+3	피자를	_	NOUN	NOUN	_	5	dobj	_	_
+4	바로	_	ADV	ADV	_	5	advmod	_	_
+5	만들어주니까	_	VERB	PREDCONJ	_	7	advcl	_	_
+6	깔끔하고	_	VERB	PREDCONJ	_	7	conj	_	_
+7	맛있었어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	식사를	_	NOUN	NOUN	_	2	dobj	_	_
+2	마치시면	_	VERB	PREDCONJ	_	6	advcl	_	_
+3	밖에	_	ADV	ADV	_	6	advmod	_	_
+4	난로와	_	NOUN	NOMCONJ	_	5	conj	_	_
+5	군고구마도	_	NOUN	NOUN	_	6	dobj	_	_
+6	즐길	_	VERB	PREDREL	_	7	dep	_	_
+7	수	_	NOUN	NOUN	_	8	nsubj	_	_
+8	있는	_	VERB	PREDREL	_	9	rcmod	_	_
+9	하우스도	_	NOUN	NOUN	_	10	nsubj	_	_
+10	있더라구요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	모르는	_	VERB	PREDREL	_	2	rcmod	_	_
+2	부분을	_	NOUN	NOUN	_	5	dobj	_	_
+3	친절히	_	ADV	ADV	_	5	advmod	_	_
+4	잘	_	ADV	ADV	_	5	advmod	_	_
+5	설명해주네요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	청결한	_	ADJ	ADJ	_	2	amod	_	_
+2	객실을	_	NOUN	NOUN	_	3	dobj	_	_
+3	위해	_	VERB	PREDCONJ	_	8	advcl	_	_
+4	철저하게	_	ADV	ADV	_	7	advmod	_	_
+5	객실	_	NOUN	NOUN	_	6	compmod	_	_
+6	점검을	_	NOUN	NOUN	_	7	dobj	_	_
+7	하고	_	VERB	PREDCX	_	8	compmod	_	_
+8	있으며	_	VERB	PREDCONJ	_	21	advcl	_	_
+9	편한하고	_	VERB	PREDCONJ	_	11	conj	_	_
+10	기분	_	NOUN	NOUN	_	11	nsubj	_	_
+11	좋은	_	VERB	PREDREL	_	13	rcmod	_	_
+12	휴식	_	NOUN	NOUN	_	13	compmod	_	_
+13	공간	_	NOUN	NOUN	_	16	conj	_	_
+14	,	_	.	.	_	13	p	_	_
+15	쉼터	_	NOUN	NOUN	_	16	compmod	_	_
+16	공간을	_	NOUN	NOUN	_	17	dobj	_	_
+17	제공하기	_	NOUN	NOUN	_	18	dobj	_	_
+18	위해	_	VERB	PREDCONJ	_	21	advcl	_	_
+19	최선을	_	NOUN	NOUN	_	20	dobj	_	_
+20	다하고	_	VERB	PREDCX	_	21	compmod	_	_
+21	있다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	주문	_	NOUN	NOUN	_	2	adpobj	_	_
+2	후	_	ADP	ADP	_	7	adpmod	_	_
+3	1시간이	_	NOUN	NUMNOUN	_	5	nsubj	_	_
+4	다	_	ADV	ADV	_	5	advmod	_	_
+5	되도록	_	VERB	PREDCONJ	_	7	advcl	_	_
+6	소식이	_	NOUN	NOUN	_	7	nsubj	_	_
+7	없어	_	VERB	PREDCONJ	_	8	advcl	_	_
+8	전화해보니	_	VERB	PREDCONJ	_	14	advcl	_	_
+9	이미	_	ADV	ADV	_	10	advmod	_	_
+10	왔었는데	_	VERB	PREDCONJ	_	13	advcl	_	_
+11	주소를	_	NOUN	NOUN	_	13	dobj	_	_
+12	못	_	ADV	ADV	_	13	neg	_	_
+13	찾았다고	_	VERB	PREDCOMP	_	14	ccomp	_	_
+14	하시네요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	하도	_	ADV	ADV	_	3	advmod	_	_
+2	소리	_	NOUN	NOUN	_	3	dobj	_	_
+3	질러	_	VERB	PREDCONJ	_	4	advcl	_	_
+4	무서워서	_	VERB	PREDCONJ	_	8	advcl	_	_
+5	위약금	_	NOUN	NOUN	_	6	dobj	_	_
+6	지불하고	_	VERB	PREDCONJ	_	8	conj	_	_
+7	회원	_	NOUN	NOUN	_	8	dobj	_	_
+8	해지했습니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	주인도	_	NOUN	NOUN	_	2	nsubj	_	_
+2	친절하고	_	VERB	PREDCONJ	_	8	conj	_	_
+3	,	_	.	.	_	2	p	_	_
+4	옷도	_	NOUN	NOUN	_	5	nsubj	_	_
+5	예쁘고	_	VERB	PREDCONJ	_	8	conj	_	_
+6	,	_	.	.	_	5	p	_	_
+7	옷들도	_	NOUN	NOUN	_	8	nsubj	_	_
+8	싸서	_	VERB	PREDCONJ	_	10	advcl	_	_
+9	아주	_	ADV	ADV	_	10	advmod	_	_
+10	좋아요	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	집도	_	NOUN	NOUN	_	2	nsubj	_	_
+2	가까워서	_	VERB	PREDCONJ	_	5	advcl	_	_
+3	자주	_	ADV	ADV	_	5	advmod	_	_
+4	먹으러	_	VERB	PREDCONJ	_	5	advcl	_	_
+5	가야겠어요.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	여기	_	PRON	PRON	_	5	nsubj	_	_
+2	근방에서	_	ADV	ADV	_	5	advmod	_	_
+3	제일	_	ADV	ADV	_	5	advmod	_	_
+4	싸고	_	VERB	PREDCONJ	_	5	conj	_	_
+5	맛있어요.	_	ADJ	ADJ	_	0	ROOT	_	_
+
+1	우리	_	PRON	PRON	_	2	poss	_	_
+2	아이도	_	NOUN	NOUN	_	7	nsubj	_	_
+3	약	_	NOUN	NOUN	_	4	dobj	_	_
+4	먹고	_	VERB	PREDCONJ	_	7	conj	_	_
+5	키가	_	NOUN	NOUN	_	7	nsubj	_	_
+6	많이	_	ADV	ADV	_	7	advmod	_	_
+7	자랐답니다.	_	VERB	VERB	_	0	ROOT	_	_
+
+1	고객에게	_	NOUN	NOUN	_	4	iobj	_	_
+2	퍼진	_	ADJ	ADJ	_	3	amod	_	_
+3	면은	_	NOUN	NOUN	_	4	dobj	_	_
+4	드릴	_	VERB	PREDREL	_	5	dep	_	_
+5	수	_	NOUN	NOUN	_	6	nsubj	_	_
+6	없기	_	NOUN	NOUN	_	7	adpobj	_	_
+7	때문에	_	ADP	ADP	_	10	adpmod	_	_
+8	멀리	_	ADV	ADV	_	10	advmod	_	_
+9	배달을	_	NOUN	NOUN	_	10	dobj	_	_
+10	못한다고	_	VERB	PREDCOMP	_	11	ccomp	_	_
+11	하네요!	_	VERB	VERB	_	0	ROOT	_	_
+
+1	모든	_	DET	DET	_	2	det	_	_
+2	재료는	_	NOUN	NOUN	_	6	dobj	_	_
+3	항상	_	ADV	ADV	_	6	advmod	_	_
+4	신선한	_	ADJ	ADJ	_	5	amod	_	_
+5	것만을	_	NOUN	NOUN	_	6	dobj	_	_
+6	쓰기	_	NOUN	NOUN	_	7	adpobj	_	_
+7	때문에	_	ADP	ADP	_	11	adpmod	_	_
+8	오랜	_	ADJ	ADJ	_	9	amod	_	_
+9	단골들에게	_	NOUN	NOUN	_	11	iobj	_	_
+10	인정받고	_	VERB	PREDCONJ	_	11	conj	_	_
+11	사랑받는	_	VERB	PREDREL	_	12	rcmod	_	_
+12	요리주점입니다.	_	VERB	NOMCOP	_	0	ROOT	_	_
+
