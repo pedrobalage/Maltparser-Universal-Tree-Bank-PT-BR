@@ -19,8 +19,8 @@ from __future__ import with_statement
 import os
 import codecs
 
-CORPUS_FILE = '../pt-br-corrected/pt-br-universal-train-dev.conll'
-TRAIN_FILE = 'pt-br-universal-train-dev.ptb' # to be created
+CORPUS_FILE = 'pt-br-corrected/pt-br-universal-train-dev.conll'
+TRAIN_FILE =  'pt-br-corrected/pt-br-universal-train-dev.ptb' # to be created
 
 with codecs.open(CORPUS_FILE,'r',encoding='utf8') as input_file:
     with codecs.open(TRAIN_FILE,'w',encoding='utf8') as output_file:

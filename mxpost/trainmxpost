@@ -1,5 +1,5 @@
 #!/bin/sh
-export CLASSPATH=/home/pedro/experiments/Maltparser_ptbr/tagger/mxpost/mxpost.jar
+export CLASSPATH=$PWD/mxpost.jar
 
 if [ $# != 2 ]
 	then
