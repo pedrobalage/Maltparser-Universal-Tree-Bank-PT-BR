@@ -1,3 +1,11 @@
-#!/bin/sh
-export CLASSPATH=/home/pedro/experiments/Maltparser_ptbr/tagger/mxpost/mxpost.jar
-java -mx30m tagger.TestTagger /home/pedro/experiments/Maltparser_ptbr/tagger/mxpost/tagger.project
+#!/bin/ksh
+
+if [ $# != 1 ]
+	then
+	print -u2 "Usage: $0 <projectdir>"
+	exit 1
+fi
+
+
+
+java -mx30m tagger.TestTagger $1
