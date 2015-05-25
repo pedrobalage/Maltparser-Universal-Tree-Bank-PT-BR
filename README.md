@@ -2,7 +2,6 @@
 
 This repository contains the code necessary to train the MXPost and Malt dependency parser with the Universal Dependency Treebank for the Brazilian-Portuguese
 
-
 MXPOST
 [http://www.inf.ed.ac.uk/resources/nlp/local\_doc/MXPOST.html](http://www.inf.ed.ac.uk/resources/nlp/local\_doc/MXPOST.html)
 
@@ -17,7 +16,7 @@ Universal Dependency Treebank
 
 In order to use the tagger you should run the following command:
 
-`echo "Esta sentença é de teste" | java -mx30m -cp tagger/mxpost/mxpost.jar tagger.TestTagger tagger/pt-br-universal-tagger.project`
+`echo "Esta sentença é de teste" | java -mx30m -cp mxpost/mxpost.jar tagger.TestTagger pt-br-universal-tagger.project`
 
 In order to use the parser you should run the following java command:
 
@@ -29,13 +28,23 @@ The script train\_and\_eval.sh provide the commands to train a new model and to 
 
 The evaluation on pt-br-corrected/pt-br-universal-test.conll scored 0.83 of accuracy.
 
-------
+### Execution
 
-I created an integrated solution to run mxpost and maltparser in a single command line.
+I created an integrated solution to process a sentence and run mxpost and maltparser in a single command line.
 
-In order to use this feature you may run the following command:
+In order to use this feature you may run sending the text by the stdin:
 
-`echo "Esta sentença é de teste" | ./parse.py`
+`echo "Uma palavra ou vocábulo é uma unidade da linguagem falada ou escrita ." | ./parse.py`
 
-## Autor
+or 
+
+`cat myfile.txt | ./parse.py`
+
+The script does not tokenize the text, thus you should provide the input already tokenized.
+
+### Issues
+
+I am working in a python3 compatible code.
+
+### Autor
 Pedro Paulo Balage - [http://pedrobalage.com](http://pedrobalage.com)
